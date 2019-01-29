@@ -8,7 +8,7 @@ import time
 import numbers
 from concurrent.futures import ProcessPoolExecutor
 import concurrent.futures
-
+from unicode_functions import UnicodeWriter
 
 def html_parse_tree(url):
     page = requests.get(url)
@@ -35,6 +35,14 @@ def array2csv(array, filename):
     csv_array = array
     csv_out = open(filename + ".csv", 'w')
     mywriter = csv.writer(csv_out)
+    for row in csv_array:
+        mywriter.writerow(row)
+    csv_out.close()
+
+def array2csv8utf(array, filename):
+    csv_array = array
+    csv_out = open(filename + ".csv", 'w')
+    mywriter = UnicodeWriter(csv_out)
     for row in csv_array:
         mywriter.writerow(row)
     csv_out.close()
