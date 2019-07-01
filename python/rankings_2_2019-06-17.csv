@@ -1,0 +1,683 @@
+week_title,week_year,week_month,week_day,rank_text,rank_number,move_positions,move_direction,player_age,ranking_points,tourneys_played,player_url,player_slug,name,country,player_id
+2019.06.17,2019,6,17,1,1,,,32,12715,17,/en/players/novak-djokovic/d643/overview,novak-djokovic,Novak Djokovic,SRB,d643
+2019.06.17,2019,6,17,2,2,,,33,7945,16,/en/players/rafael-nadal/n409/overview,rafael-nadal,Rafael Nadal,ESP,n409
+2019.06.17,2019,6,17,3,3,,,37,6420,16,/en/players/roger-federer/f324/overview,roger-federer,Roger Federer,SUI,f324
+2019.06.17,2019,6,17,4,4,,,25,4685,23,/en/players/dominic-thiem/tb69/overview,dominic-thiem,Dominic Thiem,AUT,tb69
+2019.06.17,2019,6,17,5,5,,,22,4360,24,/en/players/alexander-zverev/z355/overview,alexander-zverev,Alexander Zverev,GER,z355
+2019.06.17,2019,6,17,6,6,,,20,4215,28,/en/players/stefanos-tsitsipas/te51/overview,stefanos-tsitsipas,Stefanos Tsitsipas,GRE,te51
+2019.06.17,2019,6,17,7,7,,,29,4040,23,/en/players/kei-nishikori/n552/overview,kei-nishikori,Kei Nishikori,JPN,n552
+2019.06.17,2019,6,17,8,8,,,33,3565,16,/en/players/kevin-anderson/a678/overview,kevin-anderson,Kevin Anderson,RSA,a678
+2019.06.17,2019,6,17,9,9,,,23,2980,26,/en/players/karen-khachanov/ke29/overview,karen-khachanov,Karen Khachanov,RUS,ke29
+2019.06.17,2019,6,17,10,10,,,32,2785,24,/en/players/fabio-fognini/f510/overview,fabio-fognini,Fabio Fognini,ITA,f510
+2019.06.17,2019,6,17,11,11,,,34,2715,19,/en/players/john-isner/i186/overview,john-isner,John Isner,USA,i186
+2019.06.17,2019,6,17,12,12,,,30,2695,14,/en/players/juan-martin-del-potro/d683/overview,juan-martin-del-potro,Juan Martin del Potro,ARG,d683
+2019.06.17,2019,6,17,13,13,,,23,2625,27,/en/players/daniil-medvedev/mm58/overview,daniil-medvedev,Daniil Medvedev,RUS,mm58
+2019.06.17,2019,6,17,14,14,,,22,2615,22,/en/players/borna-coric/cg80/overview,borna-coric,Borna Coric,CRO,cg80
+2019.06.17,2019,6,17,15,15,,,30,2395,19,/en/players/marin-cilic/c977/overview,marin-cilic,Marin Cilic,CRO,c977
+2019.06.17,2019,6,17,16,16,,,32,2055,21,/en/players/gael-monfils/mc65/overview,gael-monfils,Gael Monfils,FRA,mc65
+2019.06.17,2019,6,17,17,17,,,27,1970,28,/en/players/nikoloz-basilashvili/bg23/overview,nikoloz-basilashvili,Nikoloz Basilashvili,GEO,bg23
+2019.06.17,2019,6,17,18,18,,,28,1900,20,/en/players/milos-raonic/r975/overview,milos-raonic,Milos Raonic,CAN,r975
+2019.06.17,2019,6,17,19,19,,,34,1715,22,/en/players/stan-wawrinka/w367/overview,stan-wawrinka,Stan Wawrinka,SUI,w367
+2019.06.17,2019,6,17,20,20,,,31,1690,23,/en/players/roberto-bautista-agut/bd06/overview,roberto-bautista-agut,Roberto Bautista Agut,ESP,bd06
+2019.06.17,2019,6,17,21,21,,,18,1522,29,/en/players/felix-auger-aliassime/ag37/overview,felix-auger-aliassime,Felix Auger-Aliassime,CAN,ag37
+2019.06.17,2019,6,17,22,22,8,up,23,1505,28,/en/players/matteo-berrettini/bk40/overview,matteo-berrettini,Matteo Berrettini,ITA,bk40
+2019.06.17,2019,6,17,23,23,,,26,1440,26,/en/players/diego-schwartzman/sm37/overview,diego-schwartzman,Diego Schwartzman,ARG,sm37
+2019.06.17,2019,6,17,24,24,2,down,29,1430,25,/en/players/guido-pella/pc11/overview,guido-pella,Guido Pella,ARG,pc11
+2019.06.17,2019,6,17,25,25,,,20,1390,28,/en/players/denis-shapovalov/su55/overview,denis-shapovalov,Denis Shapovalov,CAN,su55
+2019.06.17,2019,6,17,26,26,2,down,20,1330,23,/en/players/alex-de-minaur/dh58/overview,alex-de-minaur,Alex de Minaur,AUS,dh58
+2019.06.17,2019,6,17,27,27,,,24,1329,24,/en/players/laslo-djere/db63/overview,laslo-djere,Laslo Djere,SRB,db63
+2019.06.17,2019,6,17,28,28,,,30,1303,33,/en/players/benoit-paire/pd31/overview,benoit-paire,Benoit Paire,FRA,pd31
+2019.06.17,2019,6,17,29,29,3,down,25,1295,22,/en/players/lucas-pouille/pf39/overview,lucas-pouille,Lucas Pouille,FRA,pf39
+2019.06.17,2019,6,17,30,30,1,down,24,1280,24,/en/players/kyle-edmund/e831/overview,kyle-edmund,Kyle Edmund,GBR,e831
+2019.06.17,2019,6,17,31,31,,,28,1271,25,/en/players/dusan-lajovic/l987/overview,dusan-lajovic,Dusan Lajovic,SRB,l987
+2019.06.17,2019,6,17,32,32,,,23,1268,22,/en/players/cristian-garin/gd64/overview,cristian-garin,Cristian Garin,CHI,gd64
+2019.06.17,2019,6,17,33,33,,,28,1255,25,/en/players/david-goffin/gb88/overview,david-goffin,David Goffin,BEL,gb88
+2019.06.17,2019,6,17,34,34,10,up,30,1241,32,/en/players/adrian-mannarino/me82/overview,adrian-mannarino,Adrian Mannarino,FRA,me82
+2019.06.17,2019,6,17,35,35,3,up,29,1240,25,/en/players/jan-lennard-struff/sl28/overview,jan-lennard-struff,Jan-Lennard Struff,GER,sl28
+2019.06.17,2019,6,17,36,36,1,down,21,1230,25,/en/players/frances-tiafoe/td51/overview,frances-tiafoe,Frances Tiafoe,USA,td51
+2019.06.17,2019,6,17,37,37,3,down,35,1210,27,/en/players/fernando-verdasco/v306/overview,fernando-verdasco,Fernando Verdasco,ESP,v306
+2019.06.17,2019,6,17,38,38,1,down,34,1190,27,/en/players/gilles-simon/sd32/overview,gilles-simon,Gilles Simon,FRA,sd32
+2019.06.17,2019,6,17,39,39,3,down,24,1180,22,/en/players/nick-kyrgios/ke17/overview,nick-kyrgios,Nick Kyrgios,AUS,ke17
+2019.06.17,2019,6,17,40,40,1,down,26,1130,27,/en/players/marco-cecchinato/cf01/overview,marco-cecchinato,Marco Cecchinato,ITA,cf01
+2019.06.17,2019,6,17,41,41,1,down,29,1101,28,/en/players/radu-albot/a829/overview,radu-albot,Radu Albot,MDA,a829
+2019.06.17,2019,6,17,42,42,1,down,21,1090,28,/en/players/taylor-fritz/fb98/overview,taylor-fritz,Taylor Fritz,USA,fb98
+2019.06.17,2019,6,17,43,43,2,up,28,1008,27,/en/players/pierre-hugues-herbert/h996/overview,pierre-hugues-herbert,Pierre-Hugues Herbert,FRA,h996
+2019.06.17,2019,6,17,44,44,1,down,33,1003,24,/en/players/pablo-cuevas/c882/overview,pablo-cuevas,Pablo Cuevas,URU,c882
+2019.06.17,2019,6,17,45,45,1,up,28,997,19,/en/players/grigor-dimitrov/d875/overview,grigor-dimitrov,Grigor Dimitrov,BUL,d875
+2019.06.17,2019,6,17,46,46,16,up,25,967,29,/en/players/jordan-thompson/tc61/overview,jordan-thompson,Jordan Thompson,AUS,tc61
+2019.06.17,2019,6,17,47,47,,,31,955,24,/en/players/mikhail-kukushkin/k926/overview,mikhail-kukushkin,Mikhail Kukushkin,KAZ,k926
+2019.06.17,2019,6,17,48,48,,,32,940,25,/en/players/leonardo-mayer/md56/overview,leonardo-mayer,Leonardo Mayer,ARG,md56
+2019.06.17,2019,6,17,49,49,1,up,23,940,24,/en/players/cameron-norrie/n771/overview,cameron-norrie,Cameron Norrie,GBR,n771
+2019.06.17,2019,6,17,50,50,1,up,35,930,25,/en/players/philipp-kohlschreiber/k435/overview,philipp-kohlschreiber,Philipp Kohlschreiber,GER,k435
+2019.06.17,2019,6,17,51,51,1,up,27,930,29,/en/players/marton-fucsovics/f724/overview,marton-fucsovics,Marton Fucsovics,HUN,f724
+2019.06.17,2019,6,17,52,52,1,up,27,928,21,/en/players/filip-krajinovic/kb05/overview,filip-krajinovic,Filip Krajinovic,SRB,kb05
+2019.06.17,2019,6,17,53,53,1,up,22,923,25,/en/players/hubert-hurkacz/hb71/overview,hubert-hurkacz,Hubert Hurkacz,POL,hb71
+2019.06.17,2019,6,17,54,54,12,down,32,920,18,/en/players/richard-gasquet/g628/overview,richard-gasquet,Richard Gasquet,FRA,g628
+2019.06.17,2019,6,17,55,55,5,up,23,900,26,/en/players/nicolas-jarry/j551/overview,nicolas-jarry,Nicolas Jarry,CHI,j551
+2019.06.17,2019,6,17,56,56,1,down,29,895,21,/en/players/martin-klizan/k966/overview,martin-klizan,Martin Klizan,SVK,k966
+2019.06.17,2019,6,17,57,57,1,down,30,875,27,/en/players/john-millman/mh30/overview,john-millman,John Millman,AUS,mh30
+2019.06.17,2019,6,17,58,58,1,down,27,860,19,/en/players/pablo-carreno-busta/cd85/overview,pablo-carreno-busta,Pablo Carreno Busta,ESP,cd85
+2019.06.17,2019,6,17,59,59,1,down,25,859,26,/en/players/juan-ignacio-londero/lb84/overview,juan-ignacio-londero,Juan Ignacio Londero,ARG,lb84
+2019.06.17,2019,6,17,60,60,1,down,20,858,25,/en/players/casper-ruud/rh16/overview,casper-ruud,Casper Ruud,NOR,rh16
+2019.06.17,2019,6,17,61,61,,,21,855,22,/en/players/reilly-opelka/o522/overview,reilly-opelka,Reilly Opelka,USA,o522
+2019.06.17,2019,6,17,62,62,1,up,27,833,27,/en/players/damir-dzumhur/d923/overview,damir-dzumhur,Damir Dzumhur,BIH,d923
+2019.06.17,2019,6,17,63,63,7,up,29,818,22,/en/players/daniel-evans/e687/overview,daniel-evans,Daniel Evans,GBR,e687
+2019.06.17,2019,6,17,64,64,,,20,817,32,/en/players/ugo-humbert/hh26/overview,ugo-humbert,Ugo Humbert,FRA,hh26
+2019.06.17,2019,6,17,65,65,16,down,32,810,27,/en/players/jeremy-chardy/ca12/overview,jeremy-chardy,Jeremy Chardy,FRA,ca12
+2019.06.17,2019,6,17,66,66,1,up,32,781,28,/en/players/robin-haase/h756/overview,robin-haase,Robin Haase,NED,h756
+2019.06.17,2019,6,17,67,67,1,up,23,776,23,/en/players/yoshihito-nishioka/n732/overview,yoshihito-nishioka,Yoshihito Nishioka,JPN,n732
+2019.06.17,2019,6,17,68,68,1,up,31,770,19,/en/players/sam-querrey/q927/overview,sam-querrey,Sam Querrey,USA,q927
+2019.06.17,2019,6,17,69,69,3,up,35,770,28,/en/players/andreas-seppi/sa93/overview,andreas-seppi,Andreas Seppi,ITA,sa93
+2019.06.17,2019,6,17,70,70,5,down,24,761,24,/en/players/mackenzie-mcdonald/mk66/overview,mackenzie-mcdonald,Mackenzie McDonald,USA,mk66
+2019.06.17,2019,6,17,71,71,,,30,750,30,/en/players/joao-sousa/sh90/overview,joao-sousa,Joao Sousa,POR,sh90
+2019.06.17,2019,6,17,72,72,1,up,26,742,31,/en/players/roberto-carballes-baena/cf59/overview,roberto-carballes-baena,Roberto Carballes Baena,ESP,cf59
+2019.06.17,2019,6,17,73,73,2,up,28,734,23,/en/players/ricardas-berankis/be90/overview,ricardas-berankis,Ricardas Berankis,LTU,be90
+2019.06.17,2019,6,17,74,74,2,up,24,732,29,/en/players/lorenzo-sonego/su87/overview,lorenzo-sonego,Lorenzo Sonego,ITA,su87
+2019.06.17,2019,6,17,75,75,2,up,28,731,24,/en/players/federico-delbonis/d874/overview,federico-delbonis,Federico Delbonis,ARG,d874
+2019.06.17,2019,6,17,76,76,2,up,29,725,26,/en/players/steve-johnson/j386/overview,steve-johnson,Steve Johnson,USA,j386
+2019.06.17,2019,6,17,77,77,2,up,34,725,23,/en/players/jo-wilfried-tsonga/t786/overview,jo-wilfried-tsonga,Jo-Wilfried Tsonga,FRA,t786
+2019.06.17,2019,6,17,78,78,4,up,33,702,22,/en/players/pablo-andujar/a596/overview,pablo-andujar,Pablo Andujar,ESP,a596
+2019.06.17,2019,6,17,79,79,5,up,26,700,27,/en/players/denis-kudla/kb09/overview,denis-kudla,Denis Kudla,USA,kb09
+2019.06.17,2019,6,17,80,80,14,down,31,696,24,/en/players/matthew-ebden/e690/overview,matthew-ebden,Matthew Ebden,AUS,e690
+2019.06.17,2019,6,17,81,81,,,21,696,24,/en/players/andrey-rublev/re44/overview,andrey-rublev,Andrey Rublev,RUS,re44
+2019.06.17,2019,6,17,82,82,1,up,19,671,22,/en/players/miomir-kecmanovic/ki95/overview,miomir-kecmanovic,Miomir Kecmanovic,SRB,ki95
+2019.06.17,2019,6,17,83,83,3,up,40,669,22,/en/players/ivo-karlovic/k336/overview,ivo-karlovic,Ivo Karlovic,CRO,k336
+2019.06.17,2019,6,17,84,84,4,down,28,667,23,/en/players/marius-copil/ca99/overview,marius-copil,Marius Copil,ROU,ca99
+2019.06.17,2019,6,17,85,85,,,21,662,29,/en/players/alexander-bublik/bk92/overview,alexander-bublik,Alexander Bublik,KAZ,bk92
+2019.06.17,2019,6,17,86,86,16,up,20,660,25,/en/players/corentin-moutet/mw02/overview,corentin-moutet,Corentin Moutet,FRA,mw02
+2019.06.17,2019,6,17,87,87,,,22,652,29,/en/players/lloyd-harris/hg86/overview,lloyd-harris,Lloyd Harris,RSA,hg86
+2019.06.17,2019,6,17,88,88,14,down,22,630,25,/en/players/jaume-munar/mu94/overview,jaume-munar,Jaume Munar,ESP,mu94
+2019.06.17,2019,6,17,89,89,,,28,628,22,/en/players/bradley-klahn/ka98/overview,bradley-klahn,Bradley Klahn,USA,ka98
+2019.06.17,2019,6,17,90,90,,,30,617,17,/en/players/ernests-gulbis/g858/overview,ernests-gulbis,Ernests Gulbis,LAT,g858
+2019.06.17,2019,6,17,91,91,1,up,27,599,24,/en/players/tennys-sandgren/sl08/overview,tennys-sandgren,Tennys Sandgren,USA,sl08
+2019.06.17,2019,6,17,92,92,1,up,29,595,20,/en/players/aljaz-bedene/bh09/overview,aljaz-bedene,Aljaz Bedene,SLO,bh09
+2019.06.17,2019,6,17,93,93,1,up,27,593,26,/en/players/henri-laaksonen/l949/overview,henri-laaksonen,Henri Laaksonen,SUI,l949
+2019.06.17,2019,6,17,94,94,1,up,26,593,26,/en/players/hugo-dellien/da31/overview,hugo-dellien,Hugo Dellien,BOL,da31
+2019.06.17,2019,6,17,95,95,4,down,29,591,20,/en/players/prajnesh-gunneswaran/ga94/overview,prajnesh-gunneswaran,Prajnesh Gunneswaran,IND,ga94
+2019.06.17,2019,6,17,96,96,1,up,37,572,34,/en/players/paolo-lorenzi/l503/overview,paolo-lorenzi,Paolo Lorenzi,ITA,l503
+2019.06.17,2019,6,17,97,97,2,up,29,570,27,/en/players/yannick-maden/mh16/overview,yannick-maden,Yannick Maden,GER,mh16
+2019.06.17,2019,6,17,98,98,3,up,31,560,32,/en/players/albert-ramos-vinolas/r772/overview,albert-ramos-vinolas,Albert Ramos-Vinolas,ESP,r772
+2019.06.17,2019,6,17,99,99,5,up,30,557,23,/en/players/thomas-fabbiano/f586/overview,thomas-fabbiano,Thomas Fabbiano,ITA,f586
+2019.06.17,2019,6,17,100,100,2,down,35,557,29,/en/players/malek-jaziri/j267/overview,malek-jaziri,Malek Jaziri,TUN,j267
+2019.06.17,2019,6,17,101,101,2,up,19,553,25,/en/players/alexei-popyrin/p09z/overview,alexei-popyrin,Alexei Popyrin,AUS,p09z
+2019.06.17,2019,6,17,102,102,14,down,26,548,20,/en/players/bernard-tomic/ta46/overview,bernard-tomic,Bernard Tomic,AUS,ta46
+2019.06.17,2019,6,17,103,103,9,up,27,543,28,/en/players/stefano-travaglia/ta12/overview,stefano-travaglia,Stefano Travaglia,ITA,ta12
+2019.06.17,2019,6,17,104,104,5,up,25,536,31,/en/players/thiago-monteiro/mj08/overview,thiago-monteiro,Thiago Monteiro,BRA,mj08
+2019.06.17,2019,6,17,105,105,9,down,32,535,26,/en/players/denis-istomin/i165/overview,denis-istomin,Denis Istomin,UZB,i165
+2019.06.17,2019,6,17,106,106,1,up,25,528,24,/en/players/jiri-vesely/v708/overview,jiri-vesely,Jiri Vesely,CZE,v708
+2019.06.17,2019,6,17,107,107,3,up,26,524,27,/en/players/taro-daniel/da81/overview,taro-daniel,Taro Daniel,JPN,da81
+2019.06.17,2019,6,17,108,108,8,down,33,520,13,/en/players/tomas-berdych/ba47/overview,tomas-berdych,Tomas Berdych,CZE,ba47
+2019.06.17,2019,6,17,109,109,3,down,23,520,27,/en/players/brayden-schnur/sp24/overview,brayden-schnur,Brayden Schnur,CAN,sp24
+2019.06.17,2019,6,17,110,110,5,down,33,518,25,/en/players/marcel-granollers/g710/overview,marcel-granollers,Marcel Granollers,ESP,g710
+2019.06.17,2019,6,17,111,111,7,up,23,515,24,/en/players/antoine-hoang/ha71/overview,antoine-hoang,Antoine Hoang,FRA,ha71
+2019.06.17,2019,6,17,112,112,1,down,27,512,29,/en/players/guido-andreozzi/a887/overview,guido-andreozzi,Guido Andreozzi,ARG,a887
+2019.06.17,2019,6,17,113,113,5,down,37,507,19,/en/players/feliciano-lopez/l397/overview,feliciano-lopez,Feliciano Lopez,ESP,l397
+2019.06.17,2019,6,17,114,114,1,up,23,486,26,/en/players/kamil-majchrzak/mq75/overview,kamil-majchrzak,Kamil Majchrzak,POL,mq75
+2019.06.17,2019,6,17,115,115,1,up,25,484,25,/en/players/gregoire-barrere/bk24/overview,gregoire-barrere,Gregoire Barrere,FRA,bk24
+2019.06.17,2019,6,17,116,116,1,up,30,482,27,/en/players/jason-jung/j380/overview,jason-jung,Jason Jung,TPE,j380
+2019.06.17,2019,6,17,117,117,4,down,25,478,21,/en/players/dennis-novak/db59/overview,dennis-novak,Dennis Novak,AUT,db59
+2019.06.17,2019,6,17,118,118,1,up,32,476,22,/en/players/matthias-bachinger/bc65/overview,matthias-bachinger,Matthias Bachinger,GER,bc65
+2019.06.17,2019,6,17,119,119,5,down,31,470,23,/en/players/mischa-zverev/z168/overview,mischa-zverev,Mischa Zverev,GER,z168
+2019.06.17,2019,6,17,120,120,20,up,23,466,26,/en/players/elias-ymer/y218/overview,elias-ymer,Elias Ymer,SWE,y218
+2019.06.17,2019,6,17,121,121,1,down,29,465,25,/en/players/peter-gojowczyk/g967/overview,peter-gojowczyk,Peter Gojowczyk,GER,g967
+2019.06.17,2019,6,17,122,122,2,up,31,463,29,/en/players/pedro-sousa/s483/overview,pedro-sousa,Pedro Sousa,POR,s483
+2019.06.17,2019,6,17,123,123,2,down,33,461,31,/en/players/sergiy-stakhovsky/sc77/overview,sergiy-stakhovsky,Sergiy Stakhovsky,UKR,sc77
+2019.06.17,2019,6,17,124,124,2,down,26,458,26,/en/players/salvatore-caruso/ce25/overview,salvatore-caruso,Salvatore Caruso,ITA,ce25
+2019.06.17,2019,6,17,125,125,2,down,20,453,18,/en/players/mikael-ymer/y268/overview,mikael-ymer,Mikael Ymer,SWE,y268
+2019.06.17,2019,6,17,126,126,28,up,29,449,23,/en/players/andrej-martin/mf35/overview,andrej-martin,Andrej Martin,SVK,mf35
+2019.06.17,2019,6,17,127,127,1,down,22,446,30,/en/players/pedro-martinez/mo44/overview,pedro-martinez,Pedro Martinez,ESP,mo44
+2019.06.17,2019,6,17,128,128,1,down,27,445,18,/en/players/ryan-harrison/h940/overview,ryan-harrison,Ryan Harrison,USA,h940
+2019.06.17,2019,6,17,129,129,1,down,24,444,28,/en/players/gianluca-mager/ml57/overview,gianluca-mager,Gianluca Mager,ITA,ml57
+2019.06.17,2019,6,17,130,130,18,up,29,442,25,/en/players/evgeny-donskoy/d864/overview,evgeny-donskoy,Evgeny Donskoy,RUS,d864
+2019.06.17,2019,6,17,131,131,2,up,21,437,17,/en/players/soonwoo-kwon/kf17/overview,soonwoo-kwon,Soonwoo Kwon,KOR,kf17
+2019.06.17,2019,6,17,132,132,,,25,427,33,/en/players/oscar-otte/o449/overview,oscar-otte,Oscar Otte,GER,o449
+2019.06.17,2019,6,17,133,133,4,down,20,427,25,/en/players/alejandro-davidovich-fokina/dh50/overview,alejandro-davidovich-fokina,Alejandro Davidovich Fokina,ESP,dh50
+2019.06.17,2019,6,17,134,134,,,37,425,14,/en/players/david-ferrer/f401/overview,david-ferrer,David Ferrer,ESP,f401
+2019.06.17,2019,6,17,135,135,1,up,25,423,23,/en/players/bjorn-fratangelo/f811/overview,bjorn-fratangelo,Bjorn Fratangelo,USA,f811
+2019.06.17,2019,6,17,136,136,6,down,29,423,23,/en/players/facundo-bagnis/bf23/overview,facundo-bagnis,Facundo Bagnis,ARG,bf23
+2019.06.17,2019,6,17,137,137,4,up,33,423,29,/en/players/lukas-rosol/r685/overview,lukas-rosol,Lukas Rosol,CZE,r685
+2019.06.17,2019,6,17,138,138,,,22,422,24,/en/players/tommy-paul/pl56/overview,tommy-paul,Tommy Paul,USA,pl56
+2019.06.17,2019,6,17,139,139,2,down,33,420,21,/en/players/marcos-baghdatis/b837/overview,marcos-baghdatis,Marcos Baghdatis,CYP,b837
+2019.06.17,2019,6,17,140,140,9,down,31,414,31,/en/players/peter-polansky/pb22/overview,peter-polansky,Peter Polansky,CAN,pb22
+2019.06.17,2019,6,17,141,141,3,up,27,409,30,/en/players/lorenzo-giustino/ga79/overview,lorenzo-giustino,Lorenzo Giustino,ITA,ga79
+2019.06.17,2019,6,17,142,142,3,up,23,407,27,/en/players/sebastian-ofner/o513/overview,sebastian-ofner,Sebastian Ofner,AUT,o513
+2019.06.17,2019,6,17,143,143,4,down,31,406,24,/en/players/lukas-lacko/l797/overview,lukas-lacko,Lukas Lacko,SVK,l797
+2019.06.17,2019,6,17,144,144,19,down,25,404,16,/en/players/ilya-ivashka/i305/overview,ilya-ivashka,Ilya Ivashka,BLR,i305
+2019.06.17,2019,6,17,145,145,3,down,26,403,12,/en/players/jozef-kovalik/kc04/overview,jozef-kovalik,Jozef Kovalik,SVK,kc04
+2019.06.17,2019,6,17,146,146,3,down,21,401,17,/en/players/michael-mmoh/mp01/overview,michael-mmoh,Michael Mmoh,USA,mp01
+2019.06.17,2019,6,17,147,147,12,down,26,392,19,/en/players/alex-bolt/bi81/overview,alex-bolt,Alex Bolt,AUS,bi81
+2019.06.17,2019,6,17,148,148,2,down,23,386,24,/en/players/nikola-milojevic/mm66/overview,nikola-milojevic,Nikola Milojevic,SRB,mm66
+2019.06.17,2019,6,17,149,149,2,up,23,379,27,/en/players/filippo-baldi/bm03/overview,filippo-baldi,Filippo Baldi,ITA,bm03
+2019.06.17,2019,6,17,150,150,,,33,379,27,/en/players/adrian-menendez-maceiras/mb53/overview,adrian-menendez-maceiras,Adrian Menendez-Maceiras,ESP,mb53
+2019.06.17,2019,6,17,151,151,4,up,27,374,25,/en/players/james-duckworth/d994/overview,james-duckworth,James Duckworth,AUS,d994
+2019.06.17,2019,6,17,152,152,3,down,18,370,26,/en/players/rudolf-molleker/m0ac/overview,rudolf-molleker,Rudolf Molleker,GER,m0ac
+2019.06.17,2019,6,17,153,153,17,up,34,370,25,/en/players/dustin-brown/ba65/overview,dustin-brown,Dustin Brown,GER,ba65
+2019.06.17,2019,6,17,154,154,1,down,36,369,28,/en/players/guillermo-garcia-lopez/g476/overview,guillermo-garcia-lopez,Guillermo Garcia-Lopez,ESP,g476
+2019.06.17,2019,6,17,155,155,8,down,24,364,29,/en/players/ramkumar-ramanathan/rb56/overview,ramkumar-ramanathan,Ramkumar Ramanathan,IND,rb56
+2019.06.17,2019,6,17,156,156,1,up,23,360,18,/en/players/hyeon-chung/ch27/overview,hyeon-chung,Hyeon Chung,KOR,ch27
+2019.06.17,2019,6,17,157,157,1,down,26,360,22,/en/players/egor-gerasimov/gc89/overview,egor-gerasimov,Egor Gerasimov,BLR,gc89
+2019.06.17,2019,6,17,158,158,6,up,34,358,14,/en/players/dudi-sela/sc56/overview,dudi-sela,Dudi Sela,ISR,sc56
+2019.06.17,2019,6,17,159,159,1,down,31,357,25,/en/players/tatsuma-ito/i230/overview,tatsuma-ito,Tatsuma Ito,JPN,i230
+2019.06.17,2019,6,17,160,160,1,down,22,354,32,/en/players/quentin-halys/hb64/overview,quentin-halys,Quentin Halys,FRA,hb64
+2019.06.17,2019,6,17,161,161,1,down,25,351,24,/en/players/marcos-giron/gc88/overview,marcos-giron,Marcos Giron,USA,gc88
+2019.06.17,2019,6,17,162,162,10,down,29,348,18,/en/players/alessandro-giannessi/g983/overview,alessandro-giannessi,Alessandro Giannessi,ITA,g983
+2019.06.17,2019,6,17,163,163,2,down,29,343,18,/en/players/marco-trungelliti/ta29/overview,marco-trungelliti,Marco Trungelliti,ARG,ta29
+2019.06.17,2019,6,17,164,164,2,down,20,342,22,/en/players/jay-clarke/ci14/overview,jay-clarke,Jay Clarke,GBR,ci14
+2019.06.17,2019,6,17,165,165,1,up,25,339,26,/en/players/kimmer-coppejans/cg33/overview,kimmer-coppejans,Kimmer Coppejans,BEL,cg33
+2019.06.17,2019,6,17,166,166,3,down,25,331,26,/en/players/joao-domingues/d985/overview,joao-domingues,Joao Domingues,POR,d985
+2019.06.17,2019,6,17,167,167,7,up,25,319,29,/en/players/dominik-koepfer/ke73/overview,dominik-koepfer,Dominik Koepfer,GER,ke73
+2019.06.17,2019,6,17,168,168,,,26,314,15,/en/players/jason-kubler/kb95/overview,jason-kubler,Jason Kubler,AUS,kb95
+2019.06.17,2019,6,17,169,169,22,up,34,312,26,/en/players/go-soeda/sc47/overview,go-soeda,Go Soeda,JPN,sc47
+2019.06.17,2019,6,17,170,170,44,up,25,311,21,/en/players/mikael-torpegaard/tc12/overview,mikael-torpegaard,Mikael Torpegaard,DEN,tc12
+2019.06.17,2019,6,17,171,171,,,26,310,11,/en/players/jack-sock/sm25/overview,jack-sock,Jack Sock,USA,sm25
+2019.06.17,2019,6,17,172,172,,,26,307,23,/en/players/filip-horansky/ha28/overview,filip-horansky,Filip Horansky,SVK,ha28
+2019.06.17,2019,6,17,173,173,8,down,24,303,25,/en/players/maximilian-marterer/mn13/overview,maximilian-marterer,Maximilian Marterer,GER,mn13
+2019.06.17,2019,6,17,174,174,5,down,28,303,21,/en/players/blaz-rola/ra51/overview,blaz-rola,Blaz Rola,SLO,ra51
+2019.06.17,2019,6,17,175,175,10,up,31,301,22,/en/players/ruben-bemelmans/be54/overview,ruben-bemelmans,Ruben Bemelmans,BEL,be54
+2019.06.17,2019,6,17,176,176,3,down,23,301,24,/en/players/noah-rubin/rc96/overview,noah-rubin,Noah Rubin,USA,rc96
+2019.06.17,2019,6,17,177,177,1,up,24,294,26,/en/players/stefano-napolitano/n679/overview,stefano-napolitano,Stefano Napolitano,ITA,n679
+2019.06.17,2019,6,17,178,178,6,up,26,292,16,/en/players/yasutaka-uchiyama/u134/overview,yasutaka-uchiyama,Yasutaka Uchiyama,JPN,u134
+2019.06.17,2019,6,17,179,179,22,up,27,292,22,/en/players/federico-coria/ce77/overview,federico-coria,Federico Coria,ARG,ce77
+2019.06.17,2019,6,17,180,180,5,down,27,291,21,/en/players/darian-king/kc86/overview,darian-king,Darian King,BAR,kc86
+2019.06.17,2019,6,17,181,181,14,down,28,291,29,/en/players/enrique-lopez-perez/la93/overview,enrique-lopez-perez,Enrique Lopez Perez,ESP,la93
+2019.06.17,2019,6,17,182,182,5,down,36,289,19,/en/players/carlos-berlocq/b884/overview,carlos-berlocq,Carlos Berlocq,ARG,b884
+2019.06.17,2019,6,17,183,183,4,down,27,289,27,/en/players/arthur-de-greef/d981/overview,arthur-de-greef,Arthur De Greef,BEL,d981
+2019.06.17,2019,6,17,184,184,4,up,27,286,25,/en/players/emilio-gomez/ga36/overview,emilio-gomez,Emilio Gomez,ECU,ga36
+2019.06.17,2019,6,17,185,185,5,down,33,281,19,/en/players/simone-bolelli/ba98/overview,simone-bolelli,Simone Bolelli,ITA,ba98
+2019.06.17,2019,6,17,186,186,10,down,25,281,27,/en/players/mitchell-krueger/kc12/overview,mitchell-krueger,Mitchell Krueger,USA,kc12
+2019.06.17,2019,6,17,187,187,5,down,28,279,15,/en/players/vasek-pospisil/pd07/overview,vasek-pospisil,Vasek Pospisil,CAN,pd07
+2019.06.17,2019,6,17,188,188,5,down,23,278,14,/en/players/thanasi-kokkinakis/kd46/overview,thanasi-kokkinakis,Thanasi Kokkinakis,AUS,kd46
+2019.06.17,2019,6,17,189,189,8,down,22,278,30,/en/players/marc-polmans/pg94/overview,marc-polmans,Marc Polmans,AUS,pg94
+2019.06.17,2019,6,17,190,190,5,up,31,275,21,/en/players/daniel-brands/bc72/overview,daniel-brands,Daniel Brands,GER,bc72
+2019.06.17,2019,6,17,191,191,2,down,37,272,13,/en/players/nicolas-mahut/m873/overview,nicolas-mahut,Nicolas Mahut,FRA,m873
+2019.06.17,2019,6,17,192,192,4,up,22,271,33,/en/players/maxime-janvier/j620/overview,maxime-janvier,Maxime Janvier,FRA,j620
+2019.06.17,2019,6,17,193,193,,,33,270,21,/en/players/viktor-troicki/t840/overview,viktor-troicki,Viktor Troicki,SRB,t840
+2019.06.17,2019,6,17,194,194,,,32,270,26,/en/players/aleksandr-nedovyesov/n503/overview,aleksandr-nedovyesov,Aleksandr Nedovyesov,KAZ,n503
+2019.06.17,2019,6,17,195,195,7,up,26,269,25,/en/players/facundo-arguello/a941/overview,facundo-arguello,Facundo Arguello,ARG,a941
+2019.06.17,2019,6,17,196,196,6,down,23,267,26,/en/players/christopher-eubanks/e865/overview,christopher-eubanks,Christopher Eubanks,USA,e865
+2019.06.17,2019,6,17,197,197,11,down,22,267,18,/en/players/daniel-elahi-galan/ge33/overview,daniel-elahi-galan,Daniel Elahi Galan,COL,ge33
+2019.06.17,2019,6,17,198,198,7,up,28,265,26,/en/players/viktor-galovic/gb61/overview,viktor-galovic,Viktor Galovic,CRO,gb61
+2019.06.17,2019,6,17,199,199,1,down,29,264,21,/en/players/donald-young/y124/overview,donald-young,Donald Young,USA,y124
+2019.06.17,2019,6,17,200,200,10,up,27,264,30,/en/players/federico-gaio/gb53/overview,federico-gaio,Federico Gaio,ITA,gb53
+2019.06.17,2019,6,17,201,201,2,down,22,264,19,/en/players/tallon-griekspoor/gj37/overview,tallon-griekspoor,Tallon Griekspoor,NED,gj37
+2019.06.17,2019,6,17,202,202,2,down,28,263,23,/en/players/norbert-gombos/gb93/overview,norbert-gombos,Norbert Gombos,SVK,gb93
+2019.06.17,2019,6,17,203,203,4,up,27,260,24,/en/players/mirza-basic/be67/overview,mirza-basic,Mirza Basic,BIH,be67
+2019.06.17,2019,6,17,204,204,2,up,27,257,22,/en/players/constant-lestienne/lb66/overview,constant-lestienne,Constant Lestienne,FRA,lb66
+2019.06.17,2019,6,17,205,205,13,down,30,256,25,/en/players/yuichi-sugita/se73/overview,yuichi-sugita,Yuichi Sugita,JPN,se73
+2019.06.17,2019,6,17,206,206,2,up,26,254,29,/en/players/alexey-vatutin/v717/overview,alexey-vatutin,Alexey Vatutin,RUS,v717
+2019.06.17,2019,6,17,207,207,21,up,24,247,27,/en/players/thai-son-kwiatkowski/kd35/overview,thai-son-kwiatkowski,Thai-Son Kwiatkowski,USA,kd35
+2019.06.17,2019,6,17,208,208,5,up,31,241,26,/en/players/andrea-arnaboldi/a622/overview,andrea-arnaboldi,Andrea Arnaboldi,ITA,a622
+2019.06.17,2019,6,17,209,209,10,up,17,239,16,/en/players/jannik-sinner/s0ag/overview,jannik-sinner,Jannik Sinner,ITA,s0ag
+2019.06.17,2019,6,17,210,210,23,down,29,237,23,/en/players/roberto-marcora/mj01/overview,roberto-marcora,Roberto Marcora,ITA,mj01
+2019.06.17,2019,6,17,211,211,1,up,24,236,26,/en/players/evgeny-karlovskiy/kd87/overview,evgeny-karlovskiy,Evgeny Karlovskiy,RUS,kd87
+2019.06.17,2019,6,17,212,212,8,down,32,235,24,/en/players/james-ward/w503/overview,james-ward,James Ward,GBR,w503
+2019.06.17,2019,6,17,213,213,5,up,21,235,24,/en/players/duckhee-lee/le01/overview,duckhee-lee,Duckhee Lee,KOR,le01
+2019.06.17,2019,6,17,214,214,11,down,27,231,10,/en/players/yannick-hanfmann/h997/overview,yannick-hanfmann,Yannick Hanfmann,GER,h997
+2019.06.17,2019,6,17,215,215,,,32,230,12,/en/players/andy-murray/mc10/overview,andy-murray,Andy Murray,GBR,mc10
+2019.06.17,2019,6,17,216,216,,,37,230,20,/en/players/tommy-robredo/r419/overview,tommy-robredo,Tommy Robredo,ESP,r419
+2019.06.17,2019,6,17,217,217,,,24,230,21,/en/players/enzo-couacaud/cg94/overview,enzo-couacaud,Enzo Couacaud,FRA,cg94
+2019.06.17,2019,6,17,218,218,5,up,20,226,24,/en/players/elliot-benchetrit/bt68/overview,elliot-benchetrit,Elliot Benchetrit,FRA,bt68
+2019.06.17,2019,6,17,219,219,1,up,31,225,19,/en/players/tim-smyczek/sf62/overview,tim-smyczek,Tim Smyczek,USA,sf62
+2019.06.17,2019,6,17,220,220,1,up,25,224,23,/en/players/andrew-harris/hb29/overview,andrew-harris,Andrew Harris,AUS,hb29
+2019.06.17,2019,6,17,221,221,24,down,30,223,15,/en/players/attila-balazs/bd80/overview,attila-balazs,Attila Balazs,HUN,bd80
+2019.06.17,2019,6,17,222,222,7,up,31,222,22,/en/players/saketh-myneni/me64/overview,saketh-myneni,Saketh Myneni,IND,me64
+2019.06.17,2019,6,17,223,223,1,down,26,222,32,/en/players/mats-moraing/mj71/overview,mats-moraing,Mats Moraing,GER,mj71
+2019.06.17,2019,6,17,224,224,,,30,220,23,/en/players/thiemo-de-bakker/d776/overview,thiemo-de-bakker,Thiemo de Bakker,NED,d776
+2019.06.17,2019,6,17,225,225,,,28,219,23,/en/players/ze-zhang/z272/overview,ze-zhang,Ze Zhang,CHN,z272
+2019.06.17,2019,6,17,226,226,1,up,34,218,16,/en/players/luca-vanni/v495/overview,luca-vanni,Luca Vanni,ITA,v495
+2019.06.17,2019,6,17,227,227,3,up,35,216,19,/en/players/rogerio-dutra-silva/sc73/overview,rogerio-dutra-silva,Rogerio Dutra Silva,BRA,sc73
+2019.06.17,2019,6,17,228,228,8,up,24,215,31,/en/players/pedro-cachin/cg04/overview,pedro-cachin,Pedro Cachin,ARG,cg04
+2019.06.17,2019,6,17,229,229,2,up,30,214,20,/en/players/john-patrick-smith/sj55/overview,john-patrick-smith,John-Patrick Smith,AUS,sj55
+2019.06.17,2019,6,17,230,230,2,up,27,214,28,/en/players/roberto-quiroz/q941/overview,roberto-quiroz,Roberto Quiroz,ECU,q941
+2019.06.17,2019,6,17,231,231,4,up,22,212,30,/en/players/lucas-miedler/mo55/overview,lucas-miedler,Lucas Miedler,AUT,mo55
+2019.06.17,2019,6,17,232,232,6,down,22,212,32,/en/players/zdenek-kolar/kh56/overview,zdenek-kolar,Zdenek Kolar,CZE,kh56
+2019.06.17,2019,6,17,233,233,24,down,24,211,27,/en/players/pedja-krstin/kd70/overview,pedja-krstin,Pedja Krstin,SRB,kd70
+2019.06.17,2019,6,17,234,234,1,down,30,210,17,/en/players/sergio-gutierrez-ferrol/g935/overview,sergio-gutierrez-ferrol,Sergio Gutierrez-Ferrol,ESP,g935
+2019.06.17,2019,6,17,235,235,4,up,35,209,14,/en/players/steve-darcis/d632/overview,steve-darcis,Steve Darcis,BEL,d632
+2019.06.17,2019,6,17,236,236,2,down,25,209,18,/en/players/mathias-bourgue/bk19/overview,mathias-bourgue,Mathias Bourgue,FRA,bk19
+2019.06.17,2019,6,17,237,237,,,32,206,7,/en/players/blaz-kavcic/k834/overview,blaz-kavcic,Blaz Kavcic,SLO,k834
+2019.06.17,2019,6,17,238,238,,,22,205,23,/en/players/akira-santillan/sq80/overview,akira-santillan,Akira Santillan,AUS,sq80
+2019.06.17,2019,6,17,239,239,4,up,28,204,21,/en/players/steven-diez/d916/overview,steven-diez,Steven Diez,CAN,d916
+2019.06.17,2019,6,17,240,240,,,32,204,29,/en/players/zhe-li/l733/overview,zhe-li,Zhe Li,CHN,l733
+2019.06.17,2019,6,17,241,241,,,22,204,31,/en/players/bernabe-zapata-miralles/z419/overview,bernabe-zapata-miralles,Bernabe Zapata Miralles,ESP,z419
+2019.06.17,2019,6,17,242,242,,,21,203,14,/en/players/yosuke-watanuki/wb08/overview,yosuke-watanuki,Yosuke Watanuki,JPN,wb08
+2019.06.17,2019,6,17,243,243,5,up,28,203,31,/en/players/mohamed-safwat/sk47/overview,mohamed-safwat,Mohamed Safwat,EGY,sk47
+2019.06.17,2019,6,17,244,244,1,up,24,195,31,/en/players/kaichi-uchida/u120/overview,kaichi-uchida,Kaichi Uchida,JPN,u120
+2019.06.17,2019,6,17,245,245,1,down,31,194,20,/en/players/jurgen-zopp/z254/overview,jurgen-zopp,Jurgen Zopp,EST,z254
+2019.06.17,2019,6,17,246,246,9,up,19,194,25,/en/players/nicola-kuhn/ki74/overview,nicola-kuhn,Nicola Kuhn,ESP,ki74
+2019.06.17,2019,6,17,247,247,1,down,31,190,16,/en/players/santiago-giraldo/g725/overview,santiago-giraldo,Santiago Giraldo,COL,g725
+2019.06.17,2019,6,17,248,248,1,down,28,190,28,/en/players/hiroki-moriya/mi01/overview,hiroki-moriya,Hiroki Moriya,JPN,mi01
+2019.06.17,2019,6,17,249,249,,,21,187,28,/en/players/yunseong-chung/ch90/overview,yunseong-chung,Yunseong Chung,KOR,ch90
+2019.06.17,2019,6,17,250,250,11,up,33,186,28,/en/players/daniel-gimeno-traver/g676/overview,daniel-gimeno-traver,Daniel Gimeno-Traver,ESP,g676
+2019.06.17,2019,6,17,251,251,21,up,21,182,21,/en/players/sumit-nagal/n897/overview,sumit-nagal,Sumit Nagal,IND,n897
+2019.06.17,2019,6,17,252,252,,,23,182,22,/en/players/gianluigi-quinzi/q948/overview,gianluigi-quinzi,Gianluigi Quinzi,ITA,q948
+2019.06.17,2019,6,17,253,253,2,down,24,181,27,/en/players/daniel-masur/mn20/overview,daniel-masur,Daniel Masur,GER,mn20
+2019.06.17,2019,6,17,254,254,,,26,179,23,/en/players/tristan-lamasine/lc11/overview,tristan-lamasine,Tristan Lamasine,FRA,lc11
+2019.06.17,2019,6,17,255,255,5,down,31,178,26,/en/players/matteo-viola/v490/overview,matteo-viola,Matteo Viola,ITA,v490
+2019.06.17,2019,6,17,256,256,4,up,24,176,41,/en/players/goncalo-oliveira/o482/overview,goncalo-oliveira,Goncalo Oliveira,POR,o482
+2019.06.17,2019,6,17,257,257,,,27,175,29,/en/players/maverick-banes/bh87/overview,maverick-banes,Maverick Banes,AUS,bh87
+2019.06.17,2019,6,17,258,258,,,31,172,21,/en/players/thomaz-bellucci/bd20/overview,thomaz-bellucci,Thomaz Bellucci,BRA,bd20
+2019.06.17,2019,6,17,259,259,5,up,31,165,20,/en/players/gleb-sakharov/sj22/overview,gleb-sakharov,Gleb Sakharov,FRA,sj22
+2019.06.17,2019,6,17,260,260,2,up,23,165,24,/en/players/mario-vilella-martinez/v824/overview,mario-vilella-martinez,Mario Vilella Martinez,ESP,v824
+2019.06.17,2019,6,17,261,261,5,down,21,165,27,/en/players/max-purcell/ph71/overview,max-purcell,Max Purcell,AUS,ph71
+2019.06.17,2019,6,17,262,262,1,up,28,165,30,/en/players/uladzimir-ignatik/i236/overview,uladzimir-ignatik,Uladzimir Ignatik,BLR,i236
+2019.06.17,2019,6,17,263,263,2,up,28,162,19,/en/players/scott-griekspoor/gc54/overview,scott-griekspoor,Scott Griekspoor,NED,gc54
+2019.06.17,2019,6,17,264,264,5,down,33,162,22,/en/players/tobias-kamke/k839/overview,tobias-kamke,Tobias Kamke,GER,k839
+2019.06.17,2019,6,17,265,265,1,up,25,162,28,/en/players/filip-peliwo/pf65/overview,filip-peliwo,Filip Peliwo,CAN,pf65
+2019.06.17,2019,6,17,266,266,1,up,23,162,32,/en/players/jc-aragone/ab71/overview,jc-aragone,JC Aragone,USA,ab71
+2019.06.17,2019,6,17,267,267,7,up,22,161,23,/en/players/joao-menezes/mn70/overview,joao-menezes,Joao Menezes,BRA,mn70
+2019.06.17,2019,6,17,268,268,3,up,23,159,24,/en/players/collin-altamirano/ac84/overview,collin-altamirano,Collin Altamirano,USA,ac84
+2019.06.17,2019,6,17,269,269,1,up,22,159,23,/en/players/marc-andrea-huesler/hh06/overview,marc-andrea-huesler,Marc-Andrea Huesler,SUI,hh06
+2019.06.17,2019,6,17,270,270,2,down,21,158,19,/en/players/gian-marco-moroni/mp83/overview,gian-marco-moroni,Gian Marco Moroni,ITA,mp83
+2019.06.17,2019,6,17,271,271,2,down,20,156,15,/en/players/j.j.-wolf/w09g/overview,j.j.-wolf,J.J. Wolf,USA,w09g
+2019.06.17,2019,6,17,272,272,61,down,20,156,22,/en/players/jurij-rodionov/r09x/overview,jurij-rodionov,Jurij Rodionov,AUT,r09x
+2019.06.17,2019,6,17,273,273,4,up,21,147,21,/en/players/tung-lin-wu/w857/overview,tung-lin-wu,Tung-Lin Wu,TPE,w857
+2019.06.17,2019,6,17,274,274,2,up,32,145,23,/en/players/kenny-de-schepper/d750/overview,kenny-de-schepper,Kenny De Schepper,FRA,d750
+2019.06.17,2019,6,17,275,275,3,up,29,144,22,/en/players/jose-hernandez-fernandez/h896/overview,jose-hernandez-fernandez,Jose Hernandez-Fernandez,DOM,h896
+2019.06.17,2019,6,17,276,276,9,up,22,143,23,/en/players/ernesto-escobedo/e873/overview,ernesto-escobedo,Ernesto Escobedo,USA,e873
+2019.06.17,2019,6,17,277,277,2,up,21,143,24,/en/players/ulises-blanch/bv27/overview,ulises-blanch,Ulises Blanch,USA,bv27
+2019.06.17,2019,6,17,278,278,3,down,23,143,29,/en/players/cem-ilkel/i306/overview,cem-ilkel,Cem Ilkel,TUR,i306
+2019.06.17,2019,6,17,279,279,1,up,27,142,16,/en/players/kevin-krawietz/kb92/overview,kevin-krawietz,Kevin Krawietz,GER,kb92
+2019.06.17,2019,6,17,280,280,4,up,21,142,20,/en/players/marcelo-tomas-barrios-vera/bs86/overview,marcelo-tomas-barrios-vera,Marcelo Tomas Barrios Vera,CHI,bs86
+2019.06.17,2019,6,17,281,281,1,up,22,141,17,/en/players/sasi-kumar-mukund/mp13/overview,sasi-kumar-mukund,Sasi Kumar Mukund,IND,mp13
+2019.06.17,2019,6,17,282,282,4,up,20,136,15,/en/players/pavel-kotov/k09f/overview,pavel-kotov,Pavel Kotov,RUS,k09f
+2019.06.17,2019,6,17,283,283,4,up,28,136,29,/en/players/roberto-ortega-olmedo/o340/overview,roberto-ortega-olmedo,Roberto Ortega-Olmedo,ESP,o340
+2019.06.17,2019,6,17,284,284,3,down,39,131,19,/en/players/stephane-robert/r612/overview,stephane-robert,Stephane Robert,FRA,r612
+2019.06.17,2019,6,17,285,285,4,up,23,130,20,/en/players/jan-choinski/ch12/overview,jan-choinski,Jan Choinski,GBR,ch12
+2019.06.17,2019,6,17,286,286,4,up,36,128,8,/en/players/gilles-muller/ma30/overview,gilles-muller,Gilles Muller,LUX,ma30
+2019.06.17,2019,6,17,287,287,4,up,27,128,21,/en/players/danilo-petrovic/pe02/overview,danilo-petrovic,Danilo Petrovic,SRB,pe02
+2019.06.17,2019,6,17,288,288,35,down,23,127,23,/en/players/johan-tatlot/tc95/overview,johan-tatlot,Johan Tatlot,FRA,tc95
+2019.06.17,2019,6,17,289,289,3,up,34,125,8,/en/players/janko-tipsarevic/t742/overview,janko-tipsarevic,Janko Tipsarevic,SRB,t742
+2019.06.17,2019,6,17,290,290,7,down,26,125,23,/en/players/guilherme-clezar/cc32/overview,guilherme-clezar,Guilherme Clezar,BRA,cc32
+2019.06.17,2019,6,17,291,291,3,up,25,122,28,/en/players/liam-broady/bi23/overview,liam-broady,Liam Broady,GBR,bi23
+2019.06.17,2019,6,17,292,292,3,up,21,121,29,/en/players/roman-safiullin/sx50/overview,roman-safiullin,Roman Safiullin,RUS,sx50
+2019.06.17,2019,6,17,293,293,4,up,22,120,9,/en/players/jared-donaldson/dc58/overview,jared-donaldson,Jared Donaldson,USA,dc58
+2019.06.17,2019,6,17,294,294,1,down,23,120,24,/en/players/benjamin-bonzi/bm95/overview,benjamin-bonzi,Benjamin Bonzi,FRA,bm95
+2019.06.17,2019,6,17,295,295,3,up,27,119,23,/en/players/laurynas-grigelis/ga71/overview,laurynas-grigelis,Laurynas Grigelis,LTU,ga71
+2019.06.17,2019,6,17,296,296,4,up,22,117,33,/en/players/nino-serdarusic/sp80/overview,nino-serdarusic,Nino Serdarusic,CRO,sp80
+2019.06.17,2019,6,17,297,297,9,down,22,116,26,/en/players/alexandre-muller/mp20/overview,alexandre-muller,Alexandre Muller,FRA,mp20
+2019.06.17,2019,6,17,298,298,51,up,25,113,12,/en/players/ji-sung-nam/n652/overview,ji-sung-nam,Ji Sung Nam,KOR,n652
+2019.06.17,2019,6,17,299,299,6,up,29,112,25,/en/players/tomislav-brkic/be68/overview,tomislav-brkic,Tomislav Brkic,BIH,be68
+2019.06.17,2019,6,17,300,300,2,up,21,111,15,/en/players/carlos-taberner/te16/overview,carlos-taberner,Carlos Taberner,ESP,te16
+2019.06.17,2019,6,17,301,301,2,up,19,110,14,/en/players/yibing-wu/wb32/overview,yibing-wu,Yibing Wu,CHN,wb32
+2019.06.17,2019,6,17,302,302,18,up,22,110,15,/en/players/zhizhen-zhang/z371/overview,zhizhen-zhang,Zhizhen Zhang,CHN,z371
+2019.06.17,2019,6,17,303,303,1,up,24,109,18,/en/players/benjamin-hassan/hg94/overview,benjamin-hassan,Benjamin Hassan,GER,hg94
+2019.06.17,2019,6,17,304,304,5,down,28,108,22,/en/players/marcelo-arevalo/a853/overview,marcelo-arevalo,Marcelo Arevalo,ESA,a853
+2019.06.17,2019,6,17,305,305,1,up,26,108,27,/en/players/denis-yevseyev/y171/overview,denis-yevseyev,Denis Yevseyev,KAZ,y171
+2019.06.17,2019,6,17,306,306,1,up,23,107,28,/en/players/jelle-sels/so20/overview,jelle-sels,Jelle Sels,NED,so20
+2019.06.17,2019,6,17,307,307,11,down,28,107,29,/en/players/tsung-hua-yang/t982/overview,tsung-hua-yang,Tsung-Hua Yang,TPE,t982
+2019.06.17,2019,6,17,308,308,2,up,23,105,18,/en/players/aleksandar-vukic/v832/overview,aleksandar-vukic,Aleksandar Vukic,AUS,v832
+2019.06.17,2019,6,17,309,309,1,down,27,105,22,/en/players/tak-khunn-wang/w597/overview,tak-khunn-wang,Tak Khunn Wang,FRA,w597
+2019.06.17,2019,6,17,310,310,1,down,38,104,7,/en/players/jurgen-melzer/m762/overview,jurgen-melzer,Jurgen Melzer,AUT,m762
+2019.06.17,2019,6,17,311,311,30,up,22,102,14,/en/players/alejandro-tabilo/te30/overview,alejandro-tabilo,Alejandro Tabilo,CHI,te30
+2019.06.17,2019,6,17,312,312,4,up,27,102,28,/en/players/evan-king/kb37/overview,evan-king,Evan King,USA,kb37
+2019.06.17,2019,6,17,313,313,2,down,21,101,11,/en/players/borna-gojo/gh92/overview,borna-gojo,Borna Gojo,CRO,gh92
+2019.06.17,2019,6,17,314,314,2,down,25,101,20,/en/players/luke-saville/sm09/overview,luke-saville,Luke Saville,AUS,sm09
+2019.06.17,2019,6,17,315,315,1,down,28,99,12,/en/players/gerald-melzer/mi43/overview,gerald-melzer,Gerald Melzer,AUT,mi43
+2019.06.17,2019,6,17,316,316,1,down,22,99,18,/en/players/maxime-cressy/c0bc/overview,maxime-cressy,Maxime Cressy,USA,c0bc
+2019.06.17,2019,6,17,317,317,16,down,24,99,20,/en/players/adam-pavlasek/pg32/overview,adam-pavlasek,Adam Pavlasek,CZE,pg32
+2019.06.17,2019,6,17,318,318,1,down,20,98,12,/en/players/mate-valkusz/va70/overview,mate-valkusz,Mate Valkusz,HUN,va70
+2019.06.17,2019,6,17,319,319,1,down,30,97,13,/en/players/gonzalo-escobar/e661/overview,gonzalo-escobar,Gonzalo Escobar,ECU,e661
+2019.06.17,2019,6,17,320,320,1,down,27,95,11,/en/players/sebastian-fanselow/f664/overview,sebastian-fanselow,Sebastian Fanselow,GER,f664
+2019.06.17,2019,6,17,321,321,,,25,95,21,/en/players/michael-redlicki/rc62/overview,michael-redlicki,Michael Redlicki,USA,rc62
+2019.06.17,2019,6,17,322,322,3,up,24,94,14,/en/players/matias-franco-descotte/db93/overview,matias-franco-descotte,Matias Franco Descotte,ARG,db93
+2019.06.17,2019,6,17,323,323,10,down,25,93,12,/en/players/christian-harrison/hb05/overview,christian-harrison,Christian Harrison,USA,hb05
+2019.06.17,2019,6,17,324,324,2,down,25,93,15,/en/players/dimitar-kuzmanov/kc33/overview,dimitar-kuzmanov,Dimitar Kuzmanov,BUL,kc33
+2019.06.17,2019,6,17,325,325,2,down,20,92,17,/en/players/roy-smith/s0dh/overview,roy-smith,Roy Smith,USA,s0dh
+2019.06.17,2019,6,17,326,326,2,up,27,92,23,/en/players/andrea-collarini/cc66/overview,andrea-collarini,Andrea Collarini,ARG,cc66
+2019.06.17,2019,6,17,327,327,3,down,24,91,12,/en/players/frederico-ferreira-silva/sn54/overview,frederico-ferreira-silva,Frederico Ferreira Silva,POR,sn54
+2019.06.17,2019,6,17,328,328,2,down,26,90,5,/en/players/joris-de-loore/da86/overview,joris-de-loore,Joris De Loore,BEL,da86
+2019.06.17,2019,6,17,329,329,2,down,27,90,12,/en/players/dragos-dima/da13/overview,dragos-dima,Dragos Dima,ROU,da13
+2019.06.17,2019,6,17,330,330,,,21,86,11,/en/players/alex-molcan/mv14/overview,alex-molcan,Alex Molcan,SVK,mv14
+2019.06.17,2019,6,17,331,331,2,up,27,85,24,/en/players/evan-song/sp05/overview,evan-song,Evan Song,USA,sp05
+2019.06.17,2019,6,17,332,332,1,down,31,83,18,/en/players/aldin-setkic/sf41/overview,aldin-setkic,Aldin Setkic,BIH,sf41
+2019.06.17,2019,6,17,333,333,1,down,27,82,17,/en/players/martin-cuevas/cc98/overview,martin-cuevas,Martin Cuevas,URU,cc98
+2019.06.17,2019,6,17,334,334,,,28,80,23,/en/players/gastao-elias/e698/overview,gastao-elias,Gastao Elias,POR,e698
+2019.06.17,2019,6,17,335,335,,,28,80,9,/en/players/hugo-nys/n670/overview,hugo-nys,Hugo Nys,MON,n670
+2019.06.17,2019,6,17,336,336,4,up,24,77,16,/en/players/baptiste-crepatte/cm79/overview,baptiste-crepatte,Baptiste Crepatte,FRA,cm79
+2019.06.17,2019,6,17,337,337,1,down,27,77,18,/en/players/renzo-olivo/o376/overview,renzo-olivo,Renzo Olivo,ARG,o376
+2019.06.17,2019,6,17,338,338,,,25,76,15,/en/players/ryan-shane/sq48/overview,ryan-shane,Ryan Shane,USA,sq48
+2019.06.17,2019,6,17,339,339,,,24,75,12,/en/players/andrea-vavassori/va08/overview,andrea-vavassori,Andrea Vavassori,ITA,va08
+2019.06.17,2019,6,17,340,340,11,down,25,74,27,/en/players/roberto-cid-subervi/cf88/overview,roberto-cid-subervi,Roberto Cid Subervi,DOM,cf88
+2019.06.17,2019,6,17,341,341,3,up,29,73,19,/en/players/alexander-sarkissian/sl07/overview,alexander-sarkissian,Alexander Sarkissian,USA,sl07
+2019.06.17,2019,6,17,342,342,,,33,72,12,/en/players/vincent-millot/me31/overview,vincent-millot,Vincent Millot,FRA,me31
+2019.06.17,2019,6,17,343,343,,,24,72,14,/en/players/calvin-hemery-/hb48/overview,calvin-hemery-,Calvin Hemery,FRA,hb48
+2019.06.17,2019,6,17,344,344,71,down,24,71,13,/en/players/matteo-donati/da67/overview,matteo-donati,Matteo Donati,ITA,da67
+2019.06.17,2019,6,17,345,345,,,23,70,20,/en/players/juan-pablo-varillas/v836/overview,juan-pablo-varillas,Juan Pablo Varillas,PER,v836
+2019.06.17,2019,6,17,346,346,9,down,30,70,21,/en/players/ante-pavic/pc78/overview,ante-pavic,Ante Pavic,CRO,pc78
+2019.06.17,2019,6,17,347,347,1,down,25,69,13,/en/players/aslan-karatsev/kc56/overview,aslan-karatsev,Aslan Karatsev,RUS,kc56
+2019.06.17,2019,6,17,348,348,1,down,26,67,18,/en/players/oriol-roca-batalla/rb60/overview,oriol-roca-batalla,Oriol Roca Batalla,ESP,rb60
+2019.06.17,2019,6,17,349,349,1,down,27,66,23,/en/players/di-wu/w571/overview,di-wu,Di Wu,CHN,w571
+2019.06.17,2019,6,17,350,350,,,25,63,21,/en/players/vaclav-safranek/sn77/overview,vaclav-safranek,Vaclav Safranek,CZE,sn77
+2019.06.17,2019,6,17,351,351,,,28,62,21,/en/players/alessandro-bega/bf98/overview,alessandro-bega,Alessandro Bega,ITA,bf98
+2019.06.17,2019,6,17,352,352,,,22,61,7,/en/players/dmitry-popko/pg20/overview,dmitry-popko,Dmitry Popko,KAZ,pg20
+2019.06.17,2019,6,17,353,353,,,22,61,16,/en/players/viktor-durasovic/dc76/overview,viktor-durasovic,Viktor Durasovic,NOR,dc76
+2019.06.17,2019,6,17,354,354,10,up,19,61,17,/en/players/thiago-seyboth-wild/sx91/overview,thiago-seyboth-wild,Thiago Seyboth Wild,BRA,sx91
+2019.06.17,2019,6,17,355,355,1,down,29,61,17,/en/players/brydan-klein/k964/overview,brydan-klein,Brydan Klein,GBR,k964
+2019.06.17,2019,6,17,356,356,1,up,22,61,17,/en/players/andrea-pellegrino/ph64/overview,andrea-pellegrino,Andrea Pellegrino,ITA,ph64
+2019.06.17,2019,6,17,357,357,28,up,23,61,18,/en/players/manuel-guinard/gh33/overview,manuel-guinard,Manuel Guinard,FRA,gh33
+2019.06.17,2019,6,17,358,358,3,down,34,60,3,/en/players/horacio-zeballos/z184/overview,horacio-zeballos,Horacio Zeballos,ARG,z184
+2019.06.17,2019,6,17,359,359,3,down,23,60,15,/en/players/johannes-haerteis/hb31/overview,johannes-haerteis,Johannes Haerteis,GER,hb31
+2019.06.17,2019,6,17,360,360,1,down,22,58,18,/en/players/zihao-xia/x015/overview,zihao-xia,Zihao Xia,CHN,x015
+2019.06.17,2019,6,17,361,361,4,up,19,57,17,/en/players/zsombor-piros/p09o/overview,zsombor-piros,Zsombor Piros,HUN,p09o
+2019.06.17,2019,6,17,362,362,2,down,22,57,29,/en/players/raul-brancaccio/bv24/overview,raul-brancaccio,Raul Brancaccio,ITA,bv24
+2019.06.17,2019,6,17,363,363,2,down,28,55,13,/en/players/jan-satral/sk67/overview,jan-satral,Jan Satral,CZE,sk67
+2019.06.17,2019,6,17,364,364,1,down,26,54,10,/en/players/facundo-mena/mj98/overview,facundo-mena,Facundo Mena,ARG,mj98
+2019.06.17,2019,6,17,365,365,1,up,21,53,18,/en/players/renta-tokuda/td55/overview,renta-tokuda,Renta Tokuda,JPN,td55
+2019.06.17,2019,6,17,366,366,3,up,30,51,17,/en/players/yan-bai/be69/overview,yan-bai,Yan Bai,CHN,be69
+2019.06.17,2019,6,17,367,367,3,up,28,50,12,/en/players/dayne-kelly/ka22/overview,dayne-kelly,Dayne Kelly,AUS,ka22
+2019.06.17,2019,6,17,368,368,3,up,22,50,21,/en/players/ivan-gakhov/ge28/overview,ivan-gakhov,Ivan Gakhov,RUS,ge28
+2019.06.17,2019,6,17,369,369,19,up,25,50,26,/en/players/riccardo-bonadio/bi47/overview,riccardo-bonadio,Riccardo Bonadio,ITA,bi47
+2019.06.17,2019,6,17,370,370,5,up,26,49,15,/en/players/julian-lenz/lb51/overview,julian-lenz,Julian Lenz,GER,lb51
+2019.06.17,2019,6,17,371,371,9,down,28,49,24,/en/players/kevin-king/kb14/overview,kevin-king,Kevin King,USA,kb14
+2019.06.17,2019,6,17,372,372,,,28,49,25,/en/players/sadio-doumbia/d917/overview,sadio-doumbia,Sadio Doumbia,FRA,d917
+2019.06.17,2019,6,17,373,373,15,down,32,48,12,/en/players/rubin-statham/sf89/overview,rubin-statham,Rubin Statham,NZL,sf89
+2019.06.17,2019,6,17,374,374,1,down,23,48,17,/en/players/makoto-ochi/o664/overview,makoto-ochi,Makoto Ochi,JPN,o664
+2019.06.17,2019,6,17,375,375,1,up,23,46,18,/en/players/arthur-rinderknech/rc91/overview,arthur-rinderknech,Arthur Rinderknech,FRA,rc91
+2019.06.17,2019,6,17,376,376,1,up,34,45,3,/en/players/frank-dancevic/d499/overview,frank-dancevic,Frank Dancevic,CAN,d499
+2019.06.17,2019,6,17,377,377,1,up,25,45,12,/en/players/pedro-sakamoto/sl94/overview,pedro-sakamoto,Pedro Sakamoto,BRA,sl94
+2019.06.17,2019,6,17,378,378,19,up,30,45,18,/en/players/alejandro-gonzalez/g892/overview,alejandro-gonzalez,Alejandro Gonzalez,COL,g892
+2019.06.17,2019,6,17,379,379,,,23,45,20,/en/players/jacob-grills/ge73/overview,jacob-grills,Jacob Grills,AUS,ge73
+2019.06.17,2019,6,17,380,380,,,26,44,24,/en/players/carlos-boluda-purkiss/bg72/overview,carlos-boluda-purkiss,Carlos Boluda-Purkiss,ESP,bg72
+2019.06.17,2019,6,17,381,381,,,31,43,10,/en/players/illya-marchenko/me89/overview,illya-marchenko,Illya Marchenko,UKR,me89
+2019.06.17,2019,6,17,382,382,,,38,43,13,/en/players/victor-estrella-burgos/e224/overview,victor-estrella-burgos,Victor Estrella Burgos,DOM,e224
+2019.06.17,2019,6,17,383,383,,,24,43,16,/en/players/jared-hiltzik/hb41/overview,jared-hiltzik,Jared Hiltzik,USA,hb41
+2019.06.17,2019,6,17,384,384,2,up,23,43,19,/en/players/martin-redlicki/rc93/overview,martin-redlicki,Martin Redlicki,USA,rc93
+2019.06.17,2019,6,17,385,385,2,up,31,43,20,/en/players/peter-torebko/t911/overview,peter-torebko,Peter Torebko,GER,t911
+2019.06.17,2019,6,17,386,386,7,up,20,42,9,/en/players/alexis-galarneau/gk06/overview,alexis-galarneau,Alexis Galarneau,CAN,gk06
+2019.06.17,2019,6,17,387,387,2,up,28,42,13,/en/players/tom-jomby/j439/overview,tom-jomby,Tom Jomby,FRA,j439
+2019.06.17,2019,6,17,388,388,12,up,25,42,13,/en/players/dennis-novikov/n674/overview,dennis-novikov,Dennis Novikov,USA,n674
+2019.06.17,2019,6,17,389,389,7,up,18,41,16,/en/players/sebastian-korda/k0ah/overview,sebastian-korda,Sebastian Korda,USA,k0ah
+2019.06.17,2019,6,17,390,390,16,down,21,41,21,/en/players/yusuke-takahashi/tf58/overview,yusuke-takahashi,Yusuke Takahashi,JPN,tf58
+2019.06.17,2019,6,17,391,391,1,down,26,40,4,/en/players/yuki-bhambri/bf55/overview,yuki-bhambri,Yuki Bhambri,IND,bf55
+2019.06.17,2019,6,17,392,392,1,down,27,40,16,/en/players/sekou-bangoura/bh02/overview,sekou-bangoura,Sekou Bangoura,USA,bh02
+2019.06.17,2019,6,17,393,393,1,down,20,40,27,/en/players/javier-barranco-cosano/bv25/overview,javier-barranco-cosano,Javier Barranco Cosano,ESP,bv25
+2019.06.17,2019,6,17,394,394,27,down,31,39,4,/en/players/franko-skugor/sf76/overview,franko-skugor,Franko Skugor,CRO,sf76
+2019.06.17,2019,6,17,395,395,1,down,27,39,12,/en/players/maximilian-neuchrist/n663/overview,maximilian-neuchrist,Maximilian Neuchrist,AUT,n663
+2019.06.17,2019,6,17,396,396,1,down,28,38,10,/en/players/sandro-ehrat/e780/overview,sandro-ehrat,Sandro Ehrat,SUI,e780
+2019.06.17,2019,6,17,397,397,29,down,30,36,15,/en/players/miljan-zekic/z246/overview,miljan-zekic,Miljan Zekic,SRB,z246
+2019.06.17,2019,6,17,398,398,14,down,19,36,15,/en/players/alen-avidzba/a0ao/overview,alen-avidzba,Alen Avidzba,RUS,a0ao
+2019.06.17,2019,6,17,399,399,1,down,21,36,16,/en/players/stefan-kozlov/ke64/overview,stefan-kozlov,Stefan Kozlov,USA,ke64
+2019.06.17,2019,6,17,400,400,1,down,25,35,11,/en/players/andres-artunedo-martinavarro/ab17/overview,andres-artunedo-martinavarro,Andres Artunedo Martinavarro,ESP,ab17
+2019.06.17,2019,6,17,401,401,,,25,35,16,/en/players/arjun-kadhe/kd43/overview,arjun-kadhe,Arjun Kadhe,IND,kd43
+2019.06.17,2019,6,17,402,402,,,20,34,12,/en/players/geoffrey-blancaneaux/bu54/overview,geoffrey-blancaneaux,Geoffrey Blancaneaux,FRA,bu54
+2019.06.17,2019,6,17,403,403,,,28,34,15,/en/players/karim-mohamed-maamoun-/mj70/overview,karim-mohamed-maamoun-,Karim-Mohamed Maamoun,EGY,mj70
+2019.06.17,2019,6,17,404,404,26,up,29,33,12,/en/players/carlos-gomez-herrera/g985/overview,carlos-gomez-herrera,Carlos Gomez-Herrera,ESP,g985
+2019.06.17,2019,6,17,405,405,,,34,33,16,/en/players/teymuraz-gabashvili/g681/overview,teymuraz-gabashvili,Teymuraz Gabashvili,RUS,g681
+2019.06.17,2019,6,17,406,406,2,down,20,33,17,/en/players/blake-ellis/ea27/overview,blake-ellis,Blake Ellis,AUS,ea27
+2019.06.17,2019,6,17,407,407,1,down,23,32,10,/en/players/harry-bourchier/bj05/overview,harry-bourchier,Harry Bourchier,AUS,bj05
+2019.06.17,2019,6,17,408,408,20,up,18,32,21,/en/players/antoine-cornut-chauvinc/c0az/overview,antoine-cornut-chauvinc,Antoine Cornut-Chauvinc,FRA,c0az
+2019.06.17,2019,6,17,409,409,2,down,21,31,6,/en/players/youssef-hossam/hd67/overview,youssef-hossam,Youssef Hossam,EGY,hd67
+2019.06.17,2019,6,17,410,410,2,down,20,31,10,/en/players/emil-ruusuvuori/rh24/overview,emil-ruusuvuori,Emil Ruusuvuori,FIN,rh24
+2019.06.17,2019,6,17,411,411,2,down,22,31,15,/en/players/nam-hoang-ly/ld22/overview,nam-hoang-ly,Nam Hoang Ly,VIE,ld22
+2019.06.17,2019,6,17,412,412,3,up,27,30,13,/en/players/shuichi-sekiguchi/sl92/overview,shuichi-sekiguchi,Shuichi Sekiguchi,JPN,sl92
+2019.06.17,2019,6,17,413,413,1,down,22,30,14,/en/players/corentin-denolly/df92/overview,corentin-denolly,Corentin Denolly,FRA,df92
+2019.06.17,2019,6,17,414,414,1,down,23,30,27,/en/players/gijs-brouwer/bo10/overview,gijs-brouwer,Gijs Brouwer,NED,bo10
+2019.06.17,2019,6,17,415,415,1,down,21,29,10,/en/players/rigele-te/tg30/overview,rigele-te,Rigele Te,CHN,tg30
+2019.06.17,2019,6,17,416,416,,,31,29,13,/en/players/joao-souza/sg64/overview,joao-souza,Joao Souza,BRA,sg64
+2019.06.17,2019,6,17,417,417,1,up,22,29,14,/en/players/edan-leshem/ld26/overview,edan-leshem,Edan Leshem,ISR,ld26
+2019.06.17,2019,6,17,418,418,1,down,26,29,14,/en/players/gregoire-jacq/j557/overview,gregoire-jacq,Gregoire Jacq,FRA,j557
+2019.06.17,2019,6,17,419,419,,,21,28,11,/en/players/julian-ocleppo/o507/overview,julian-ocleppo,Julian Ocleppo,ITA,o507
+2019.06.17,2019,6,17,420,420,,,23,28,13,/en/players/bradley-mousley/mn44/overview,bradley-mousley,Bradley Mousley,AUS,mn44
+2019.06.17,2019,6,17,421,421,,,25,28,13,/en/players/andrea-basso/bh80/overview,andrea-basso,Andrea Basso,ITA,bh80
+2019.06.17,2019,6,17,422,422,,,23,28,15,/en/players/hugo-grenier/gf95/overview,hugo-grenier,Hugo Grenier,FRA,gf95
+2019.06.17,2019,6,17,423,423,,,19,28,16,/en/players/francesco-forti/f0a4/overview,francesco-forti,Francesco Forti,ITA,f0a4
+2019.06.17,2019,6,17,424,424,,,27,28,19,/en/players/antoine-escoffier/e768/overview,antoine-escoffier,Antoine Escoffier,FRA,e768
+2019.06.17,2019,6,17,425,425,,,20,27,11,/en/players/jacopo-berrettini/bu10/overview,jacopo-berrettini,Jacopo Berrettini,ITA,bu10
+2019.06.17,2019,6,17,426,426,,,17,27,16,/en/players/chun-hsin-tseng/t0ap/overview,chun-hsin-tseng,Chun-hsin Tseng,TPE,t0ap
+2019.06.17,2019,6,17,427,427,,,22,27,17,/en/players/tim-van-rijthoven/v942/overview,tim-van-rijthoven,Tim Van Rijthoven,NED,v942
+2019.06.17,2019,6,17,428,428,1,up,20,26,9,/en/players/zizou-bergs/bu13/overview,zizou-bergs,Zizou Bergs,BEL,bu13
+2019.06.17,2019,6,17,429,429,19,down,28,26,22,/en/players/tobias-simon/sk51/overview,tobias-simon,Tobias Simon,GER,sk51
+2019.06.17,2019,6,17,430,430,36,up,18,25,9,/en/players/hugo-gaston/g09o/overview,hugo-gaston,Hugo Gaston,FRA,g09o
+2019.06.17,2019,6,17,431,431,,,22,25,12,/en/players/ben-patael/fb18/overview,ben-patael,Ben Patael,ISR,fb18
+2019.06.17,2019,6,17,432,432,1,up,20,24,16,/en/players/khumoyun-sultanov/sr81/overview,khumoyun-sultanov,Khumoyun Sultanov,UZB,sr81
+2019.06.17,2019,6,17,433T,433,1,up,31,24,17,/en/players/yannick-mertens/mg08/overview,yannick-mertens,Yannick Mertens,BEL,mg08
+2019.06.17,2019,6,17,433T,433,1,up,26,24,17,/en/players/ricardo-ojeda-lara/o408/overview,ricardo-ojeda-lara,Ricardo Ojeda Lara,ESP,o408
+2019.06.17,2019,6,17,435,435,1,up,27,23,7,/en/players/marvin-netuschil/n661/overview,marvin-netuschil,Marvin Netuschil,GER,n661
+2019.06.17,2019,6,17,436,436,2,up,27,23,10,/en/players/albano-olivetti/o411/overview,albano-olivetti,Albano Olivetti,FRA,o411
+2019.06.17,2019,6,17,437,437,,,29,23,10,/en/players/jeremy-jahn/j400/overview,jeremy-jahn,Jeremy Jahn,GER,j400
+2019.06.17,2019,6,17,438,438,11,up,28,23,10,/en/players/daniel-nguyen/n555/overview,daniel-nguyen,Daniel Nguyen,USA,n555
+2019.06.17,2019,6,17,439,439,,,21,23,11,/en/players/orlando-luz/lf26/overview,orlando-luz,Orlando Luz,BRA,lf26
+2019.06.17,2019,6,17,440,440,,,30,23,11,/en/players/harri-heliovaara/h808/overview,harri-heliovaara,Harri Heliovaara,FIN,h808
+2019.06.17,2019,6,17,441,441,,,20,23,19,/en/players/matteo-martineau/mw76/overview,matteo-martineau,Matteo Martineau,FRA,mw76
+2019.06.17,2019,6,17,442,442,,,29,22,11,/en/players/markus-eriksson/e688/overview,markus-eriksson,Markus Eriksson,SWE,e688
+2019.06.17,2019,6,17,443,443,,,23,22,15,/en/players/skander-mansouri/ml73/overview,skander-mansouri,Skander Mansouri,TUN,ml73
+2019.06.17,2019,6,17,444,444,,,21,22,21,/en/players/enrico-dalla-valle/dg80/overview,enrico-dalla-valle,Enrico Dalla Valle,ITA,dg80
+2019.06.17,2019,6,17,445,445,13,down,30,21,5,/en/players/gerard-granollers/g922/overview,gerard-granollers,Gerard Granollers,ESP,g922
+2019.06.17,2019,6,17,446,446,1,down,22,21,6,/en/players/bastian-malla/mm24/overview,bastian-malla,Bastian Malla,CHI,mm24
+2019.06.17,2019,6,17,447,447,1,down,24,21,13,/en/players/sanjar-fayziev/f786/overview,sanjar-fayziev,Sanjar Fayziev,UZB,f786
+2019.06.17,2019,6,17,448,448,1,down,25,21,16,/en/players/harrison-adams/ab54/overview,harrison-adams,Harrison Adams,USA,ab54
+2019.06.17,2019,6,17,449,449,13,up,26,20,2,/en/players/raymond-sarmiento/sl09/overview,raymond-sarmiento,Raymond Sarmiento,USA,sl09
+2019.06.17,2019,6,17,450,450,2,down,21,20,5,/en/players/william-blumberg/bt45/overview,william-blumberg,William Blumberg,USA,bt45
+2019.06.17,2019,6,17,451,451,40,down,29,20,6,/en/players/alexander-ward/w579/overview,alexander-ward,Alexander Ward,GBR,w579
+2019.06.17,2019,6,17,452,452,1,down,19,20,11,/en/players/alafia-ayeni/a09p/overview,alafia-ayeni,Alafia Ayeni,USA,a09p
+2019.06.17,2019,6,17,453,453,3,down,25,20,12,/en/players/alexander-ritschard/rc04/overview,alexander-ritschard,Alexander Ritschard,USA,rc04
+2019.06.17,2019,6,17,454,454,2,down,26,20,16,/en/players/peter-heller/ha33/overview,peter-heller,Peter Heller,GER,ha33
+2019.06.17,2019,6,17,455,455,2,down,27,20,19,/en/players/fabrizio-ornago/o423/overview,fabrizio-ornago,Fabrizio Ornago,ITA,o423
+2019.06.17,2019,6,17,456,456,1,down,20,19,9,/en/players/camilo-ugo-carabelli/u182/overview,camilo-ugo-carabelli,Camilo Ugo Carabelli,ARG,u182
+2019.06.17,2019,6,17,457,457,1,down,17,19,9,/en/players/lorenzo-musetti/m0ej/overview,lorenzo-musetti,Lorenzo Musetti,ITA,m0ej
+2019.06.17,2019,6,17,458,458,1,down,28,19,10,/en/players/takanyi-garanganga/ga48/overview,takanyi-garanganga,Takanyi Garanganga,ZIM,ga48
+2019.06.17,2019,6,17,459,459,1,down,34,19,14,/en/players/konstantin-kravchuk/k776/overview,konstantin-kravchuk,Konstantin Kravchuk,RUS,k776
+2019.06.17,2019,6,17,460,460,1,down,27,19,18,/en/players/alexander-zhurbin/z301/overview,alexander-zhurbin,Alexander Zhurbin,RUS,z301
+2019.06.17,2019,6,17,461,461,1,down,25,18,7,/en/players/joao-monteiro/mm60/overview,joao-monteiro,Joao Monteiro,POR,mm60
+2019.06.17,2019,6,17,462,462,1,down,23,18,10,/en/players/botic-van-de-zandschulp/v812/overview,botic-van-de-zandschulp,Botic Van de Zandschulp,NED,v812
+2019.06.17,2019,6,17,463,463,,,21,17,7,/en/players/luca-giacomini/gk24/overview,luca-giacomini,Luca Giacomini,ITA,gk24
+2019.06.17,2019,6,17,464,464,1,up,22,17,7,/en/players/alex-rybakov/rg42/overview,alex-rybakov,Alex Rybakov,USA,rg42
+2019.06.17,2019,6,17,465,465,2,up,23,17,19,/en/players/fabien-reboul/re45/overview,fabien-reboul,Fabien Reboul,FRA,re45
+2019.06.17,2019,6,17,466,466,4,up,26,16,8,/en/players/pavel-nejedly/n824/overview,pavel-nejedly,Pavel Nejedly,CZE,n824
+2019.06.17,2019,6,17,467,467,4,up,20,16,11,/en/players/yuta-shimizu/s0aq/overview,yuta-shimizu,Yuta Shimizu,JPN,s0aq
+2019.06.17,2019,6,17,468,468,5,up,24,16,12,/en/players/ronnie-schneider/sr79/overview,ronnie-schneider,Ronnie Schneider,USA,sr79
+2019.06.17,2019,6,17,469,469,3,up,20,16,12,/en/players/louis-wessels/wb25/overview,louis-wessels,Louis Wessels,GER,wb25
+2019.06.17,2019,6,17,470,470,4,up,29,16,15,/en/players/jordi-samper-montana/sh91/overview,jordi-samper-montana,Jordi Samper-Montana,ESP,sh91
+2019.06.17,2019,6,17,471,471,4,up,33,16,18,/en/players/ivan-nedelko/n561/overview,ivan-nedelko,Ivan Nedelko,RUS,n561
+2019.06.17,2019,6,17,472,472,4,up,25,16,19,/en/players/lloyd-glasspool/gd08/overview,lloyd-glasspool,Lloyd Glasspool,GBR,gd08
+2019.06.17,2019,6,17,473,473,4,up,19,15,3,/en/players/michael-vrbensky/v0b2/overview,michael-vrbensky,Michael Vrbensky,CZE,v0b2
+2019.06.17,2019,6,17,474,474,4,up,17,15,4,/en/players/jiri-lehecka/l0bv/overview,jiri-lehecka,Jiri Lehecka,CZE,l0bv
+2019.06.17,2019,6,17,475,475,4,up,18,15,5,/en/players/tomas-machac/m0fh/overview,tomas-machac,Tomas Machac,CZE,m0fh
+2019.06.17,2019,6,17,476,476,4,up,22,15,6,/en/players/altug-celikbilek/ch05/overview,altug-celikbilek,Altug Celikbilek,TUR,ch05
+2019.06.17,2019,6,17,477,477,65,up,20,15,6,/en/players/francisco-cerundolo/c0au/overview,francisco-cerundolo,Francisco Cerundolo,ARG,c0au
+2019.06.17,2019,6,17,478,478,3,up,23,15,11,/en/players/tom-fawcett/f974/overview,tom-fawcett,Tom Fawcett,USA,f974
+2019.06.17,2019,6,17,479,479,3,up,27,14,4,/en/players/riccardo-bellotti/bh76/overview,riccardo-bellotti,Riccardo Bellotti,ITA,bh76
+2019.06.17,2019,6,17,480,480,3,up,23,14,5,/en/players/petros-chrysochos/ch73/overview,petros-chrysochos,Petros Chrysochos,CYP,ch73
+2019.06.17,2019,6,17,481,481,17,down,32,14,6,/en/players/yannick-jankovits/j347/overview,yannick-jankovits,Yannick Jankovits,FRA,j347
+2019.06.17,2019,6,17,482,482,3,up,24,14,11,/en/players/colin-sinclair/sq79/overview,colin-sinclair,Colin Sinclair,NMI,sq79
+2019.06.17,2019,6,17,483,483,3,up,21,14,11,/en/players/liam-caruana/co06/overview,liam-caruana,Liam Caruana,ITA,co06
+2019.06.17,2019,6,17,484,484,3,up,22,14,12,/en/players/juan-pablo-ficovich/fa43/overview,juan-pablo-ficovich,Juan Pablo Ficovich,ARG,fa43
+2019.06.17,2019,6,17,485,485,31,down,30,13,1,/en/players/miliaan-niesten/n607/overview,miliaan-niesten,Miliaan Niesten,NED,n607
+2019.06.17,2019,6,17,486T,486,2,up,32,13,2,/en/players/andreas-haider-maurer/h804/overview,andreas-haider-maurer,Andreas Haider-Maurer,AUT,h804
+2019.06.17,2019,6,17,486T,486,2,up,28,13,2,/en/players/alexandar-lazov/l950/overview,alexandar-lazov,Alexandar Lazov,BUL,l950
+2019.06.17,2019,6,17,488,488,2,up,21,13,6,/en/players/kirill-kivattsev/ki71/overview,kirill-kivattsev,Kirill Kivattsev,RUS,ki71
+2019.06.17,2019,6,17,489,489,2,up,20,13,6,/en/players/daniel-altmaier/ae14/overview,daniel-altmaier,Daniel Altmaier,GER,ae14
+2019.06.17,2019,6,17,490,490,2,up,26,13,12,/en/players/sidharth-rawat/rb86/overview,sidharth-rawat,Sidharth Rawat,IND,rb86
+2019.06.17,2019,6,17,491,491,2,up,22,13,12,/en/players/evgenii-tiurnev/td47/overview,evgenii-tiurnev,Evgenii Tiurnev,RUS,td47
+2019.06.17,2019,6,17,492,492,2,up,23,13,13,/en/players/lucas-gomez/gc87/overview,lucas-gomez,Lucas Gomez,MEX,gc87
+2019.06.17,2019,6,17,493,493,2,up,22,13,20,/en/players/jordi-arconada/ad49/overview,jordi-arconada,Jordi Arconada,USA,ad49
+2019.06.17,2019,6,17,494,494,2,up,26,12,4,/en/players/gonzalo-lama/lb07/overview,gonzalo-lama,Gonzalo Lama,CHI,lb07
+2019.06.17,2019,6,17,495,495,2,up,20,12,6,/en/players/patrik-rikl/rh13/overview,patrik-rikl,Patrik Rikl,CZE,rh13
+2019.06.17,2019,6,17,496,496,2,up,21,12,9,/en/players/alexandar-lazarov/li39/overview,alexandar-lazarov,Alexandar Lazarov,BUL,li39
+2019.06.17,2019,6,17,497,497,2,up,27,12,11,/en/players/alejandro-gomez/gb42/overview,alejandro-gomez,Alejandro Gomez,COL,gb42
+2019.06.17,2019,6,17,498,498,30,up,25,12,11,/en/players/shintaro-imai/i330/overview,shintaro-imai,Shintaro Imai,JPN,i330
+2019.06.17,2019,6,17,499,499,1,up,24,12,15,/en/players/evan-hoyt/hb89/overview,evan-hoyt,Evan Hoyt,GBR,hb89
+2019.06.17,2019,6,17,500,500,1,up,20,12,17,/en/players/riccardo-balzerani/bv17/overview,riccardo-balzerani,Riccardo Balzerani,ITA,bv17
+2019.06.17,2019,6,17,501,501,1,up,26,12,18,/en/players/pavel-krainik/kb12/overview,pavel-krainik,Pavel Krainik,CAN,kb12
+2019.06.17,2019,6,17,502,502,34,down,28,12,20,/en/players/marco-bortolotti/bh08/overview,marco-bortolotti,Marco Bortolotti,ITA,bh08
+2019.06.17,2019,6,17,503,503,,,20,12,20,/en/players/evan-furness/fc26/overview,evan-furness,Evan Furness,FRA,fc26
+2019.06.17,2019,6,17,504,504,,,28,11,4,/en/players/manuel-sanchez/si82/overview,manuel-sanchez,Manuel Sanchez,MEX,si82
+2019.06.17,2019,6,17,505,505,1,up,21,11,6,/en/players/brandon-holt/h09p/overview,brandon-holt,Brandon Holt,USA,h09p
+2019.06.17,2019,6,17,506,506,1,up,24,11,8,/en/players/laurent-lokoli/lc12/overview,laurent-lokoli,Laurent Lokoli,FRA,lc12
+2019.06.17,2019,6,17,507,507,64,up,17,11,9,/en/players/jack-draper/d0co/overview,jack-draper,Jack Draper,GBR,d0co
+2019.06.17,2019,6,17,508,508,,,21,11,9,/en/players/jules-okala/o635/overview,jules-okala,Jules Okala,FRA,o635
+2019.06.17,2019,6,17,509,509,,,22,11,10,/en/players/vit-kopriva/ki82/overview,vit-kopriva,Vit Kopriva,CZE,ki82
+2019.06.17,2019,6,17,510,510,,,22,11,11,/en/players/alvaro-lopez-san-martin/lf29/overview,alvaro-lopez-san-martin,Alvaro Lopez San Martin,ESP,lf29
+2019.06.17,2019,6,17,511,511,,,26,11,12,/en/players/maxime-chazal/cd00/overview,maxime-chazal,Maxime Chazal,FRA,cd00
+2019.06.17,2019,6,17,512,512,,,21,11,13,/en/players/giovanni-fonio/fc49/overview,giovanni-fonio,Giovanni Fonio,ITA,fc49
+2019.06.17,2019,6,17,513,513,,,18,11,14,/en/players/jenson-brooksby/b0cd/overview,jenson-brooksby,Jenson Brooksby,USA,b0cd
+2019.06.17,2019,6,17,514,514,167,up,23,11,20,/en/players/ryan-peniston/ph78/overview,ryan-peniston,Ryan Peniston,GBR,ph78
+2019.06.17,2019,6,17,515,515,1,down,28,10,5,/en/players/cedrik-marcel-stebe/sk94/overview,cedrik-marcel-stebe,Cedrik-Marcel Stebe,GER,sk94
+2019.06.17,2019,6,17,516,516,47,down,31,10,2,/en/players/tim-puetz/pc68/overview,tim-puetz,Tim Puetz,GER,pc68
+2019.06.17,2019,6,17,517,517,2,down,16,10,2,/en/players/carlos-alcaraz-garfia/a0e2/overview,carlos-alcaraz-garfia,Carlos Alcaraz Garfia,ESP,a0e2
+2019.06.17,2019,6,17,518,518,2,down,19,10,4,/en/players/ryan-nijboer/n0b4/overview,ryan-nijboer,Ryan Nijboer,NED,n0b4
+2019.06.17,2019,6,17,519,519,2,down,25,10,6,/en/players/edoardo-eremin/e766/overview,edoardo-eremin,Edoardo Eremin,ITA,e766
+2019.06.17,2019,6,17,520,520,29,up,20,10,6,/en/players/john-mcnally/mw84/overview,john-mcnally,John Mcnally,USA,mw84
+2019.06.17,2019,6,17,521,521,3,down,25,10,7,/en/players/pietro-rondoni/rb73/overview,pietro-rondoni,Pietro Rondoni,ITA,rb73
+2019.06.17,2019,6,17,522T,522,3,down,24,10,8,/en/players/lucas-gerch/gf23/overview,lucas-gerch,Lucas Gerch,GER,gf23
+2019.06.17,2019,6,17,522T,522,3,down,21,10,8,/en/players/lukas-klein/ki63/overview,lukas-klein,Lukas Klein,SVK,ki63
+2019.06.17,2019,6,17,522T,522,1,up,20,10,8,/en/players/chien-hsun-lo/lf59/overview,chien-hsun-lo,Chien-hsun Lo,TPE,lf59
+2019.06.17,2019,6,17,525T,525,4,down,29,10,8,/en/players/cheong-eui-kim/k863/overview,cheong-eui-kim,Cheong-Eui Kim,KOR,k863
+2019.06.17,2019,6,17,525T,525,4,down,17,10,8,/en/players/giulio-zeppieri/z0a1/overview,giulio-zeppieri,Giulio Zeppieri,ITA,z0a1
+2019.06.17,2019,6,17,527,527,2,down,24,10,13,/en/players/pol-toledo-bague/tc09/overview,pol-toledo-bague,Pol Toledo Bague,ESP,tc09
+2019.06.17,2019,6,17,528,528,4,down,25,10,13,/en/players/christopher-heyman/hb67/overview,christopher-heyman,Christopher Heyman,BEL,hb67
+2019.06.17,2019,6,17,529,529,3,down,25,10,16,/en/players/yecong-he/hb59/overview,yecong-he,Yecong He,CHN,hb59
+2019.06.17,2019,6,17,530,530,3,down,26,9,9,/en/players/vladyslav-manafov/mm54/overview,vladyslav-manafov,Vladyslav Manafov,UKR,mm54
+2019.06.17,2019,6,17,531,531,2,down,24,9,11,/en/players/gonzalo-villanueva/v821/overview,gonzalo-villanueva,Gonzalo Villanueva,ARG,v821
+2019.06.17,2019,6,17,532,532,2,down,23,9,13,/en/players/nicolas-alvarez/ac58/overview,nicolas-alvarez,Nicolas Alvarez,PER,ac58
+2019.06.17,2019,6,17,533,533,1,down,25,9,14,/en/players/david-perez-sanz/pf36/overview,david-perez-sanz,David Perez Sanz,ESP,pf36
+2019.06.17,2019,6,17,534T,534,1,down,33,8,2,/en/players/farrukh-dustov/d551/overview,farrukh-dustov,Farrukh Dustov,UZB,d551
+2019.06.17,2019,6,17,534T,534,1,down,22,8,2,/en/players/andrej-glvac/g09d/overview,andrej-glvac,Andrej Glvac,SVK,g09d
+2019.06.17,2019,6,17,536T,536,1,down,17,8,3,/en/players/brandon-nakashima/n0ae/overview,brandon-nakashima,Brandon Nakashima,USA,n0ae
+2019.06.17,2019,6,17,536T,536,1,down,31,8,3,/en/players/artem-smirnov/sh77/overview,artem-smirnov,Artem Smirnov,UKR,sh77
+2019.06.17,2019,6,17,538,538,1,down,20,8,3,/en/players/oliver-crawford/c0ak/overview,oliver-crawford,Oliver Crawford,USA,c0ak
+2019.06.17,2019,6,17,539,539,1,down,19,8,4,/en/players/daniel-michalski/m0e1/overview,daniel-michalski,Daniel Michalski,POL,m0e1
+2019.06.17,2019,6,17,540,540,,,25,8,5,/en/players/pawel-cias/cf60/overview,pawel-cias,Pawel Cias,POL,cf60
+2019.06.17,2019,6,17,541,541,,,20,8,5,/en/players/sam-riffice/r0a5/overview,sam-riffice,Sam Riffice,USA,r0a5
+2019.06.17,2019,6,17,542T,542,2,up,22,8,9,/en/players/fajing-sun/sx90/overview,fajing-sun,Fajing Sun,CHN,sx90
+2019.06.17,2019,6,17,542T,542,1,up,25,8,9,/en/players/sem-verbeek/v09l/overview,sem-verbeek,Sem Verbeek,NED,v09l
+2019.06.17,2019,6,17,544,544,1,up,25,8,11,/en/players/hernan-casanova/cg07/overview,hernan-casanova,Hernan Casanova,ARG,cg07
+2019.06.17,2019,6,17,545,545,14,down,24,8,12,/en/players/wishaya-trongcharoenchaikul/tb70/overview,wishaya-trongcharoenchaikul,Wishaya Trongcharoenchaikul,THA,tb70
+2019.06.17,2019,6,17,546,546,,,30,7,3,/en/players/nicolas-meister/mg84/overview,nicolas-meister,Nicolas Meister,USA,mg84
+2019.06.17,2019,6,17,547T,547,,,26,7,4,/en/players/tomas-lipovsek-puches/lc58/overview,tomas-lipovsek-puches,Tomas Lipovsek Puches,SLO,lc58
+2019.06.17,2019,6,17,547T,547,,,18,7,4,/en/players/rayane-roumane/rh54/overview,rayane-roumane,Rayane Roumane,FRA,rh54
+2019.06.17,2019,6,17,549,549,,,36,7,5,/en/players/david-guez/g753/overview,david-guez,David Guez,FRA,g753
+2019.06.17,2019,6,17,550,550,1,up,24,7,6,/en/players/jeremy-beale/bu34/overview,jeremy-beale,Jeremy Beale,AUS,bu34
+2019.06.17,2019,6,17,551,551,3,up,21,7,6,/en/players/tiago-cacao/cn88/overview,tiago-cacao,Tiago Cacao,POR,cn88
+2019.06.17,2019,6,17,552T,552,68,down,37,7,7,/en/players/daniel-munoz-de-la-nava/m915/overview,daniel-munoz-de-la-nava,Daniel Munoz de la Nava,ESP,m915
+2019.06.17,2019,6,17,552T,552,,,,7,7,/en/players/christian-seraphim/s09l/overview,christian-seraphim,Christian Seraphim,GER,s09l
+2019.06.17,2019,6,17,552T,552,,,20,7,7,/en/players/benjamin-sigouin/sx96/overview,benjamin-sigouin,Benjamin Sigouin,CAN,sx96
+2019.06.17,2019,6,17,555T,555,1,down,25,7,7,/en/players/christopher-o'connell/o483/overview,christopher-o'connell,Christopher O'Connell,AUS,o483
+2019.06.17,2019,6,17,555T,555,1,down,28,7,7,/en/players/cristian-rodriguez/r913/overview,cristian-rodriguez,Cristian Rodriguez,COL,r913
+2019.06.17,2019,6,17,557T,557,,,20,7,9,/en/players/artem-dubrivnyy/dg97/overview,artem-dubrivnyy,Artem Dubrivnyy,RUS,dg97
+2019.06.17,2019,6,17,557T,557,,,24,7,9,/en/players/gerardo-lopez-villasenor/lg87/overview,gerardo-lopez-villasenor,Gerardo Lopez Villasenor,MEX,lg87
+2019.06.17,2019,6,17,557T,557,2,up,21,7,9,/en/players/felipe-meligeni-rodrigues-alves/mw75/overview,felipe-meligeni-rodrigues-alves,Felipe Meligeni Rodrigues Alves,BRA,mw75
+2019.06.17,2019,6,17,560,560,,,26,7,11,/en/players/benjamin-lock/lc54/overview,benjamin-lock,Benjamin Lock,ZIM,lc54
+2019.06.17,2019,6,17,561,561,,,22,7,12,/en/players/lucas-catarina/cn78/overview,lucas-catarina,Lucas Catarina,MON,cn78
+2019.06.17,2019,6,17,562,562,1,up,20,7,14,/en/players/dan-added/a09t/overview,dan-added,Dan Added,FRA,a09t
+2019.06.17,2019,6,17,563T,563,2,up,29,6,3,/en/players/remi-boutillier/bm43/overview,remi-boutillier,Remi Boutillier,FRA,bm43
+2019.06.17,2019,6,17,563T,563,59,down,31,6,3,/en/players/marc-sieber/sh37/overview,marc-sieber,Marc Sieber,GER,sh37
+2019.06.17,2019,6,17,565,565,1,down,18,6,4,/en/players/facundo-diaz-acosta/d0cg/overview,facundo-diaz-acosta,Facundo Diaz Acosta,ARG,d0cg
+2019.06.17,2019,6,17,566,566,1,up,29,6,4,/en/players/n.sriram-balaji/n558/overview,n.sriram-balaji,N.Sriram Balaji,IND,n558
+2019.06.17,2019,6,17,567,567,1,down,20,6,5,/en/players/ergi-kirkin/ki48/overview,ergi-kirkin,Ergi Kirkin,TUR,ki48
+2019.06.17,2019,6,17,568T,568,42,up,31,6,6,/en/players/andrey-golubev/g806/overview,andrey-golubev,Andrey Golubev,KAZ,g806
+2019.06.17,2019,6,17,568T,568,1,up,23,6,6,/en/players/david-poljak/ph77/overview,david-poljak,David Poljak,CZE,ph77
+2019.06.17,2019,6,17,568T,568,,,27,6,6,/en/players/agustin-velotti/v620/overview,agustin-velotti,Agustin Velotti,ARG,v620
+2019.06.17,2019,6,17,571,571,1,down,29,6,7,/en/players/francesco-vilardo/v656/overview,francesco-vilardo,Francesco Vilardo,ITA,v656
+2019.06.17,2019,6,17,572,572,,,24,6,8,/en/players/thomas-fancutt/fa50/overview,thomas-fancutt,Thomas Fancutt,AUS,fa50
+2019.06.17,2019,6,17,573,573,,,21,6,10,/en/players/nicolae-frunza/f952/overview,nicolae-frunza,Nicolae Frunza,ROU,f952
+2019.06.17,2019,6,17,574T,574,,,25,6,12,/en/players/luis-pati%c3%b1o/pe42/overview,luis-pati%c3%b1o,Luis Patino,MEX,pe42
+2019.06.17,2019,6,17,574T,574,,,20,6,12,/en/players/jakub-paul/p0d0/overview,jakub-paul,Jakub Paul,SUI,p0d0
+2019.06.17,2019,6,17,576,576,14,down,20,6,12,/en/players/rio-noguchi/n09u/overview,rio-noguchi,Rio Noguchi,JPN,n09u
+2019.06.17,2019,6,17,577,577,1,down,22,6,12,/en/players/aziz-dougaz/df88/overview,aziz-dougaz,Aziz Dougaz,TUN,df88
+2019.06.17,2019,6,17,578,578,1,down,25,6,15,/en/players/danylo-kalenichenko/ke05/overview,danylo-kalenichenko,Danylo Kalenichenko,UKR,ke05
+2019.06.17,2019,6,17,579T,579,1,down,27,5,2,/en/players/marko-djokovic/d893/overview,marko-djokovic,Marko Djokovic,SRB,d893
+2019.06.17,2019,6,17,579T,579,,,19,5,2,/en/players/paul-jubb/j0a4/overview,paul-jubb,Paul Jubb,GBR,j0a4
+2019.06.17,2019,6,17,579T,579,1,down,25,5,2,/en/players/jea-moon-lee/lb78/overview,jea-moon-lee,Jea Moon Lee,KOR,lb78
+2019.06.17,2019,6,17,579T,579,1,down,24,5,2,/en/players/pablo-vivero-gonzalez/v886/overview,pablo-vivero-gonzalez,Pablo Vivero Gonzalez,ESP,v886
+2019.06.17,2019,6,17,583T,583,2,down,25,5,4,/en/players/juan-ignacio-galarza/gd91/overview,juan-ignacio-galarza,Juan Ignacio Galarza,ARG,gd91
+2019.06.17,2019,6,17,583T,583,2,down,17,5,4,/en/players/emilio-nava/n0am/overview,emilio-nava,Emilio Nava,USA,n0am
+2019.06.17,2019,6,17,585,585,2,down,18,5,5,/en/players/nick-hardt/h0a4/overview,nick-hardt,Nick Hardt,DOM,h0a4
+2019.06.17,2019,6,17,586,586,2,down,24,5,5,/en/players/niels-lootsma/le38/overview,niels-lootsma,Niels Lootsma,NED,le38
+2019.06.17,2019,6,17,587,587,2,down,22,5,6,/en/players/kuan-yi-lee/lh70/overview,kuan-yi-lee,Kuan-Yi Lee,TPE,lh70
+2019.06.17,2019,6,17,588T,588,3,down,30,5,7,/en/players/daniel-dutra-da-silva/sg56/overview,daniel-dutra-da-silva,Daniel Dutra da Silva,BRA,sg56
+2019.06.17,2019,6,17,588T,588,1,down,19,5,7,/en/players/patrick-kypson/k0a3/overview,patrick-kypson,Patrick Kypson,USA,k0a3
+2019.06.17,2019,6,17,590,590,2,down,19,5,10,/en/players/manish-sureshkumar/sy74/overview,manish-sureshkumar,Manish Sureshkumar,IND,sy74
+2019.06.17,2019,6,17,591,591,2,down,21,5,12,/en/players/alberto-romero-de-avila-senise/rf12/overview,alberto-romero-de-avila-senise,Alberto Romero De Avila Senise,ESP,rf12
+2019.06.17,2019,6,17,592,592,2,down,20,4,3,/en/players/nikolas-sanchez-izquierdo/s0gz/overview,nikolas-sanchez-izquierdo,Nikolas Sanchez Izquierdo,ESP,s0gz
+2019.06.17,2019,6,17,593,593,2,down,24,4,4,/en/players/ji-hoon-son/so41/overview,ji-hoon-son,Ji Hoon Son,KOR,so41
+2019.06.17,2019,6,17,594,594,2,down,30,4,6,/en/players/germain-gigounon/gb13/overview,germain-gigounon,Germain Gigounon,BEL,gb13
+2019.06.17,2019,6,17,595T,595,1,down,26,4,7,/en/players/moez-echargui/ea13/overview,moez-echargui,Moez Echargui,TUN,ea13
+2019.06.17,2019,6,17,595T,595,3,down,21,4,7,/en/players/manuel-pena-lopez/pj32/overview,manuel-pena-lopez,Manuel Pena Lopez,ARG,pj32
+2019.06.17,2019,6,17,595T,595,1,down,28,4,7,/en/players/min-kyu-song/sn70/overview,min-kyu-song,Min-Kyu Song,KOR,sn70
+2019.06.17,2019,6,17,598T,598,2,down,31,4,8,/en/players/michael-look/l837/overview,michael-look,Michael Look,AUS,l837
+2019.06.17,2019,6,17,598T,598,2,down,20,4,8,/en/players/matthew-christopher-romios/rh69/overview,matthew-christopher-romios,Matthew Christopher Romios,AUS,rh69
+2019.06.17,2019,6,17,600,600,2,down,31,4,9,/en/players/igor-sijsling/sf36/overview,igor-sijsling,Igor Sijsling,NED,sf36
+2019.06.17,2019,6,17,601,601,,,19,3,1,/en/players/james-trotter/t0bw/overview,james-trotter,James Trotter,JPN,t0bw
+2019.06.17,2019,6,17,602T,602,,,20,3,2,/en/players/masamichi-imamura/i426/overview,masamichi-imamura,Masamichi Imamura,JPN,i426
+2019.06.17,2019,6,17,602T,602,3,down,20,3,2,/en/players/dimitriy-voronin/va39/overview,dimitriy-voronin,Dimitriy Voronin,RUS,va39
+2019.06.17,2019,6,17,604T,604,5,down,18,3,3,/en/players/cannon-kingsley/k0db/overview,cannon-kingsley,Cannon Kingsley,USA,k0db
+2019.06.17,2019,6,17,604T,604,2,down,,3,3,/en/players/keenan-mayo/m0da/overview,keenan-mayo,Keenan Mayo,USA,m0da
+2019.06.17,2019,6,17,604T,604,65,down,35,3,3,/en/players/frederik-nielsen/n390/overview,frederik-nielsen,Frederik Nielsen,DEN,n390
+2019.06.17,2019,6,17,604T,604,5,down,29,3,3,/en/players/ruan-roelofse/ra24/overview,ruan-roelofse,Ruan Roelofse,RSA,ra24
+2019.06.17,2019,6,17,608T,608,4,down,17,3,4,/en/players/liam-draxl/d0dp/overview,liam-draxl,Liam Draxl,CAN,d0dp
+2019.06.17,2019,6,17,608T,608,2,up,20,3,4,/en/players/shinji-hazawa/h0ba/overview,shinji-hazawa,Shinji Hazawa,JPN,h0ba
+2019.06.17,2019,6,17,608T,608,4,down,24,3,4,/en/players/jonathan-kanar/kd71/overview,jonathan-kanar,Jonathan Kanar,FRA,kd71
+2019.06.17,2019,6,17,608T,608,4,down,18,3,4,/en/players/govind-nanda/n0al/overview,govind-nanda,Govind Nanda,USA,n0al
+2019.06.17,2019,6,17,608T,608,4,down,35,3,4,/en/players/michal-przysiezny/p701/overview,michal-przysiezny,Michal Przysiezny,POL,p701
+2019.06.17,2019,6,17,608T,608,4,down,25,3,4,/en/players/nik-razborsek/rb89/overview,nik-razborsek,Nik Razborsek,SLO,rb89
+2019.06.17,2019,6,17,608T,608,4,down,23,3,4,/en/players/pol-wattanakul/w723/overview,pol-wattanakul,Pol Wattanakul,THA,w723
+2019.06.17,2019,6,17,615T,615,5,down,21,3,5,/en/players/alexander-erler/e928/overview,alexander-erler,Alexander Erler,AUT,e928
+2019.06.17,2019,6,17,615T,615,5,down,24,3,5,/en/players/michael-geerts/gg65/overview,michael-geerts,Michael Geerts,BEL,gg65
+2019.06.17,2019,6,17,615T,615,5,down,20,3,5,/en/players/axel-geller/g0ab/overview,axel-geller,Axel Geller,ARG,g0ab
+2019.06.17,2019,6,17,615T,615,5,down,24,3,5,/en/players/niki-kaliyanda-poonacha/kh77/overview,niki-kaliyanda-poonacha,Niki Kaliyanda Poonacha,IND,kh77
+2019.06.17,2019,6,17,615T,615,5,down,32,3,5,/en/players/n-vijay-sundar-prashanth/pa97/overview,n-vijay-sundar-prashanth,N Vijay Sundar Prashanth,IND,pa97
+2019.06.17,2019,6,17,615T,615,5,down,34,3,5,/en/players/walter-trusendi/t868/overview,walter-trusendi,Walter Trusendi,ITA,t868
+2019.06.17,2019,6,17,621T,621,,,23,3,6,/en/players/peter-bothwell/bp29/overview,peter-bothwell,Peter Bothwell,IRL,bp29
+2019.06.17,2019,6,17,621T,621,11,down,25,3,6,/en/players/james-frawley/fc03/overview,james-frawley,James Frawley,AUS,fc03
+2019.06.17,2019,6,17,621T,621,1,down,23,3,6,/en/players/antonio-massara/ml48/overview,antonio-massara,Antonio Massara,ITA,ml48
+2019.06.17,2019,6,17,624T,624,3,down,19,3,7,/en/players/jaimee-floyd-angele/a0b6/overview,jaimee-floyd-angele,Jaimee Floyd Angele,FRA,a0b6
+2019.06.17,2019,6,17,624T,624,3,down,23,3,7,/en/players/runhao-hua/hc23/overview,runhao-hua,Runhao Hua,CHN,hc23
+2019.06.17,2019,6,17,624T,624,3,down,21,3,7,/en/players/yuki-mochizuki/m0b2/overview,yuki-mochizuki,Yuki Mochizuki,JPN,m0b2
+2019.06.17,2019,6,17,624T,624,3,down,26,3,7,/en/players/ricardo-rodriguez---pace/rb00/overview,ricardo-rodriguez---pace,Ricardo Rodriguez - Pace,VEN,rb00
+2019.06.17,2019,6,17,624T,624,3,down,18,3,7,/en/players/timofey-skatov/s0gr/overview,timofey-skatov,Timofey Skatov,KAZ,s0gr
+2019.06.17,2019,6,17,629,629,2,down,27,3,8,/en/players/marc-giner/gb71/overview,marc-giner,Marc Giner,ESP,gb71
+2019.06.17,2019,6,17,630T,630,2,down,20,3,9,/en/players/federico-iannaccone/i09n/overview,federico-iannaccone,Federico Iannaccone,ITA,i09n
+2019.06.17,2019,6,17,630T,630,2,down,23,3,9,/en/players/guy-orly-iradukunda/i327/overview,guy-orly-iradukunda,Guy Orly Iradukunda,BDI,i327
+2019.06.17,2019,6,17,632T,632,1,down,22,3,10,/en/players/lenny-hampel/hc99/overview,lenny-hampel,Lenny Hampel,AUT,hc99
+2019.06.17,2019,6,17,632T,632,4,down,27,3,10,/en/players/christian-lindell/la94/overview,christian-lindell,Christian Lindell,SWE,la94
+2019.06.17,2019,6,17,634,634,3,down,18,3,11,/en/players/sergey-fomin/f0a3/overview,sergey-fomin,Sergey Fomin,UZB,f0a3
+2019.06.17,2019,6,17,635T,635,1,down,24,3,12,/en/players/eduard-esteve-lobato/e830/overview,eduard-esteve-lobato,Eduard Esteve Lobato,ESP,e830
+2019.06.17,2019,6,17,635T,635,1,down,30,3,12,/en/players/lorenzo-frigerio/f774/overview,lorenzo-frigerio,Lorenzo Frigerio,ITA,f774
+2019.06.17,2019,6,17,635T,635,2,down,20,3,12,/en/players/yu-hsiou-hsu/h09f/overview,yu-hsiou-hsu,Yu Hsiou Hsu,TPE,h09f
+2019.06.17,2019,6,17,638T,638,2,down,26,3,15,/en/players/nick-chappell/cf10/overview,nick-chappell,Nick Chappell,USA,cf10
+2019.06.17,2019,6,17,638T,638,2,down,25,3,15,/en/players/joao-pedro-sorgi/sk69/overview,joao-pedro-sorgi,Joao Pedro Sorgi,BRA,sk69
+2019.06.17,2019,6,17,640,640,2,down,20,3,17,/en/players/evan-zhu/z09k/overview,evan-zhu,Evan Zhu,USA,z09k
+2019.06.17,2019,6,17,641,641,2,down,25,3,20,/en/players/bruno-santanna/sn44/overview,bruno-santanna,Bruno Santanna,BRA,sn44
+2019.06.17,2019,6,17,642,642,2,down,25,2,4,/en/players/jeroen-vanneste/v762/overview,jeroen-vanneste,Jeroen Vanneste,BEL,v762
+2019.06.17,2019,6,17,643,643,1,down,21,2,7,/en/players/jie-cui/c0aj/overview,jie-cui,Jie Cui,CHN,c0aj
+2019.06.17,2019,6,17,644,644,1,down,23,1,1,/en/players/deiton-baughman/bm19/overview,deiton-baughman,Deiton Baughman,USA,bm19
+2019.06.17,2019,6,17,645T,645,1,down,22,1,2,/en/players/nuno-borges/bt72/overview,nuno-borges,Nuno Borges,POR,bt72
+2019.06.17,2019,6,17,645T,645,1,down,22,1,2,/en/players/matej-vocel/va22/overview,matej-vocel,Matej Vocel,CZE,va22
+2019.06.17,2019,6,17,647T,647,1,down,21,1,3,/en/players/stefano-baldoni/bm08/overview,stefano-baldoni,Stefano Baldoni,ITA,bm08
+2019.06.17,2019,6,17,647T,647,1,down,19,1,3,/en/players/savriyan-danilov/d0cf/overview,savriyan-danilov,Savriyan Danilov,RUS,d0cf
+2019.06.17,2019,6,17,647T,647,1,down,19,1,3,/en/players/tomas-martin-etcheverry/ea24/overview,tomas-martin-etcheverry,Tomas Martin Etcheverry,ARG,ea24
+2019.06.17,2019,6,17,647T,647,1,down,20,1,3,/en/players/genaro-alberto-olivieri/o660/overview,genaro-alberto-olivieri,Genaro Alberto Olivieri,ARG,o660
+2019.06.17,2019,6,17,647T,647,1,down,21,1,3,/en/players/ryan-james-storrie/sy31/overview,ryan-james-storrie,Ryan James Storrie,GBR,sy31
+2019.06.17,2019,6,17,652,652,1,down,21,1,4,/en/players/dragos-nicolae-madaras/mw54/overview,dragos-nicolae-madaras,Dragos Nicolae Madaras,SWE,mw54
+2019.06.17,2019,6,17,653T,653,,,35,1,5,/en/players/ti-chen/c813/overview,ti-chen,Ti Chen,TPE,c813
+2019.06.17,2019,6,17,653T,653,,,24,1,5,/en/players/linus-frost/f0as/overview,linus-frost,Linus Frost,SWE,f0as
+2019.06.17,2019,6,17,653T,653,4,up,21,1,5,/en/players/sora-fukuda/f965/overview,sora-fukuda,Sora Fukuda,JPN,f965
+2019.06.17,2019,6,17,653T,653,12,down,28,1,5,/en/players/peter-kobelt/kc51/overview,peter-kobelt,Peter Kobelt,USA,kc51
+2019.06.17,2019,6,17,653T,653,,,31,1,5,/en/players/takuto-niki/n598/overview,takuto-niki,Takuto Niki,JPN,n598
+2019.06.17,2019,6,17,653T,653,,,22,1,5,/en/players/patrik-niklas-salminen/n754/overview,patrik-niklas-salminen,Patrik Niklas-Salminen,FIN,n754
+2019.06.17,2019,6,17,653T,653,2,down,19,1,5,/en/players/tadeas-paroulek/p0bm/overview,tadeas-paroulek,Tadeas Paroulek,CZE,p0bm
+2019.06.17,2019,6,17,660T,660,3,down,20,1,6,/en/players/vlad-andrei-dancu/dh53/overview,vlad-andrei-dancu,Vlad Andrei Dancu,ROU,dh53
+2019.06.17,2019,6,17,660T,660,3,up,34,1,6,/en/players/fred-gil/g717/overview,fred-gil,Fred Gil,POR,g717
+2019.06.17,2019,6,17,660T,660,3,down,18,1,6,/en/players/emiliano-maggioli/m0hc/overview,emiliano-maggioli,Emiliano Maggioli,ITA,m0hc
+2019.06.17,2019,6,17,660T,660,3,down,28,1,6,/en/players/jose-pereira/pc09/overview,jose-pereira,Jose Pereira,BRA,pc09
+2019.06.17,2019,6,17,660T,660,3,down,24,1,6,/en/players/martins-podzus/pg04/overview,martins-podzus,Martins Podzus,LAT,pg04
+2019.06.17,2019,6,17,665T,665,2,down,21,1,7,/en/players/jordan-correia/cn08/overview,jordan-correia,Jordan Correia,BRA,cn08
+2019.06.17,2019,6,17,665T,665,8,down,23,1,7,/en/players/william-griffith/gh46/overview,william-griffith,William Griffith,USA,gh46
+2019.06.17,2019,6,17,665T,665,2,down,18,1,7,/en/players/simon-yitbarek/y09u/overview,simon-yitbarek,Simon Yitbarek,SWE,y09u
+2019.06.17,2019,6,17,668T,668,2,down,26,1,9,/en/players/pascal-meis/mi74/overview,pascal-meis,Pascal Meis,GER,mi74
+2019.06.17,2019,6,17,668T,668,2,down,24,1,9,/en/players/jaume-pla-malfeito/pg13/overview,jaume-pla-malfeito,Jaume Pla Malfeito,ESP,pg13
+2019.06.17,2019,6,17,670T,670,2,down,24,1,10,/en/players/jack-findel-hawkins/f871/overview,jack-findel-hawkins,Jack Findel-Hawkins,GBR,f871
+2019.06.17,2019,6,17,670T,670,2,down,22,1,10,/en/players/johan-nikles/n830/overview,johan-nikles,Johan Nikles,SUI,n830
+2019.06.17,2019,6,17,670T,670,2,down,23,1,10,/en/players/omar-salman/ss61/overview,omar-salman,Omar Salman,BEL,ss61
+2019.06.17,2019,6,17,673T,673,1,down,26,1,11,/en/players/sebastien-boltz/bj37/overview,sebastien-boltz,Sebastien Boltz,FRA,bj37
+2019.06.17,2019,6,17,673T,673,5,down,20,1,11,/en/players/hong-kit-wong/wb15/overview,hong-kit-wong,Hong Kit Wong,HKG,wb15
+2019.06.17,2019,6,17,675T,675,3,down,26,1,12,/en/players/oscar-jose-gutierrez/gc17/overview,oscar-jose-gutierrez,Oscar Jose Gutierrez,BRA,gc17
+2019.06.17,2019,6,17,675T,675,3,down,23,1,12,/en/players/david-pichler/pi95/overview,david-pichler,David Pichler,AUT,pi95
+2019.06.17,2019,6,17,677,677,5,down,28,1,13,/en/players/alessandro-petrone/pc63/overview,alessandro-petrone,Alessandro Petrone,ITA,pc63
+2019.06.17,2019,6,17,678T,678,1,down,23,1,14,/en/players/paul-oosterbaan/o564/overview,paul-oosterbaan,Paul Oosterbaan,USA,o564
+2019.06.17,2019,6,17,678T,678,1,down,22,1,14,/en/players/andrew-watson/wb14/overview,andrew-watson,Andrew Watson,GBR,wb14
+2019.06.17,2019,6,17,678T,678,2,down,26,1,14,/en/players/michael-zhu/z350/overview,michael-zhu,Michael Zhu,USA,z350
+2019.06.17,2019,6,17,681,681,4,down,25,1,15,/en/players/xin-gao/g820/overview,xin-gao,Xin Gao,CHN,g820
+2019.06.17,2019,6,17,682,682,2,down,23,1,17,/en/players/felix-corwin/cn15/overview,felix-corwin,Felix Corwin,USA,cn15

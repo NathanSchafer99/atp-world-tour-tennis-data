@@ -50,7 +50,7 @@ new_rows = []
 profiles = [['player_id', 'player_slug', 'first_name', 'last_name', 'rank', 'player_url', 'profile_picture', 'flag_code', 'residence', 'birthplace', 'birthdate', 'birth_year', 'birth_month', 'birth_day', 'turned_pro', 'weight_lbs', 'weight_kg', 'height_ft', 'height_inches', 'height_cm', 'handedness', 'backhand', 'coach', 'career_high', 'career_high_date', 'prize_money_year', 'prize_money', 'titles_year', 'titles', 'win_loss_year', 'win_loss']]
 
 start = time.time()
-with open('rankings_0_2019-01-28.csv') as csvfile:
+with open('rankings_0_2019-07-01.csv') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     row1 = next(readCSV)
     new_row = row1
@@ -65,8 +65,9 @@ with open('rankings_0_2019-01-28.csv') as csvfile:
         
         player_thumbnaul_xpath = "//meta[@name='thumbnail']/@content"
         player_thumbnail_parsed = xpath_parse(profile_tree, player_thumbnaul_xpath)
+        if not player_thumbnail_parsed:
+            player_thumbnail_parsed = ['']
         player_thumbnail_cleaned = regex_strip_array(player_thumbnail_parsed)
-        
         new_row.append(player_thumbnail_cleaned[0])
         new_rows.append(new_row)
         
@@ -185,7 +186,7 @@ with open('rankings_0_2019-01-28.csv') as csvfile:
 
         profiles.append([player_id, player_slug, checkIfEmptyReturnFirst(first_name_cleaned), checkIfEmptyReturnFirst(last_name_cleaned), rank, player_url, profile_picture, flag_code, checkIfEmptyReturnFirst(residence_cleaned), checkIfEmptyReturnFirst(birthplace_cleaned), checkIfEmptyReturnFirst(birthdate_cleaned), birth_year, birth_month, birth_day, checkIfEmptyReturnFirst(turned_pro_cleaned), checkIfEmptyReturnFirst(weight_lbs_cleaned), weight_kg_cleaned_extracted, height_ft_cleaned_extracted, height_inches, height_cm_cleaned_extracted, handedness_cleaned_extracted, backhand, checkIfEmptyReturnFirst(coach_cleaned), checkIfEmptyReturnFirst(career_high_cleaned), career_high_date_cleaned_extracted, checkIfEmptyReturnFirst(prize_money_year_cleaned), checkIfEmptyReturnFirst(prize_money_cleaned), checkIfEmptyReturnFirst(titles_year_cleaned), checkIfEmptyReturnFirst(titles_cleaned), checkIfEmptyReturnFirst(win_loss_year_cleaned), checkIfEmptyReturnFirst(win_loss_cleaned)])
         
-array2csv(new_rows, 'rankings_0_2019-01-14')
+array2csv(new_rows, 'rankings_0_2019-07-01')
 
 # array2csv(profiles, 'profiles')
 array2csv8utf(profiles, 'profiles')

@@ -1,4 +1,6 @@
 import sys
+import unidecode
+import csv
 from functions import html_parse_tree, xpath_parse, regex_strip_array, read_csv, array2csv
 
 start_index = 0
@@ -98,10 +100,22 @@ for h in range(start_index, end_index + 1):
         points = int(points_parsed[i].replace(',', ''))
         tourneys = tourneys_parsed[i]
 
+        try:
+            name_text.encode('ascii')
+        except UnicodeEncodeError:
+            name_text = unidecode.unidecode(name_text)
+
         data = [week_title, week_year, week_month, week_day, rank_text, rank_number, move, move_direction, age, points, tourneys, player_url, player_slug, name_text, country_text, player_id]
         rankings.append(data)
         
         filename = 'rankings_' + str(h) + '_' + week
+
+        """" 
+        with codecs.open(filename + '2.csv', 'w', encoding='utf8') as f:
+            writer = csv.writer(f, delimiter=',')
+            for row in rankings:
+                writer.writerow(row)
+        """
         array2csv(rankings, filename)
 
     print (str(h) + "        " + week)
